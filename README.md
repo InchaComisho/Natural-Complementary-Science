@@ -1,4 +1,9 @@
 # Natural-Complementary-Science
+
+"Natural Complementary Science (自然補完科学)
+Defined by Master (inchacomusho), Feb 2026
+First and only systematic framework..."
+
 A New Scientific Paradigm Based on an Equal Relationship Between Humanity and Nature
 Author: Master (inchacomisho / inchacomusho)
 Published: February 2026
