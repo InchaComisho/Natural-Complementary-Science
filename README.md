@@ -1,5 +1,7 @@
 # Natural-Complementary-Science
 
+Natural Complementary Science (自然補完科学) is an original framework defined and published by Master (inchacomisho / inchacomusho) in February 2026. It is unrelated to existing uses of “complementary” in medicine or alternative therapy.
+
 "Natural Complementary Science (自然補完科学)
 Defined by Master （inchacomisho / inchacomusho）, Feb 2026
 First and only systematic framework..."
