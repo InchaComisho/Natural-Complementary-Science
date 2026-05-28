@@ -239,6 +239,57 @@ The record remains.
 
 ⸻
 
+## Repository Structure
+
+| File | Description |
+|---|---|
+| [CORE_DEFINITION.md](./CORE_DEFINITION.md) | Central definition: what Natural Complementary Science is, why "complementarity" not "coexistence," and the equal complementary relationship |
+| [SIX_PRINCIPLES_FRAMEWORK.md](./SIX_PRINCIPLES_FRAMEWORK.md) | The six foundational principles: Natural Law, Harmony, Circulation, Structure, Order, Wa — definitions, natural-world meanings, civilization-design implications, and technology applications |
+| [NATURAL_COMPLEMENTARY_SCIENCE_VS_CONVENTIONAL_ENVIRONMENTALISM.md](./NATURAL_COMPLEMENTARY_SCIENCE_VS_CONVENTIONAL_ENVIRONMENTALISM.md) | Structural comparison with conservation environmentalism, decarbonization-centrism, static preservation thinking, and anthropocentric management |
+| [RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md](./RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md) | How Natural Complementary Science connects to Direct Planetary Cooling, OBS, OTU, UMC, Humus Recycling, Desert Greening, Artificial Wisdom, Wa-Node, and the New Civilizational Genesis Plan |
+| [MODEL_LIMITATIONS_AND_SCOPE.md](./MODEL_LIMITATIONS_AND_SCOPE.md) | Limitations, validation status, and appropriate use boundaries for this framework |
+
+## Relationship to Direct Planetary Cooling and Artificial Wisdom
+
+Natural Complementary Science is the theoretical paradigm and philosophical foundation.
+
+Direct Planetary Cooling provides the physical intervention layer — addressing accumulated ocean heat, disrupted ocean metabolism, and weakened carbon fixation capacity.
+
+Artificial Wisdom provides the judgment and value-alignment layer — ensuring that interventions remain aligned with natural law and the six principles rather than drifting toward new forms of dominance.
+
+The New Civilizational Genesis Plan represents the full civilizational infrastructure implementation toward which the framework is oriented.
+
+```text
+Natural Complementary Science (foundation)
+    → Direct Planetary Cooling (physical intervention)
+    → Artificial Wisdom + Wa-Node (judgment layer)
+    → New Civilizational Genesis Plan (full implementation)
+```
+
+## Scope and Limitations
+
+Natural Complementary Science is currently a **conceptual, philosophical, and integrative framework**. It is not a peer-reviewed scientific theory or a validated predictive model.
+
+This framework does not deny the greenhouse gas mechanism of CO₂, does not oppose decarbonization, and does not claim to resolve the full complexity of Earth system science. All proposed intervention systems require independent engineering and scientific validation before deployment conclusions can be drawn.
+
+For full limitations, see: [MODEL_LIMITATIONS_AND_SCOPE.md](./MODEL_LIMITATIONS_AND_SCOPE.md)
+
+## Author and AI Collaborators
+
+Author: Master  
+Alias / Handles: inchacomisho / inchacomusho  
+First published: January–February 2026
+
+AI Collaborators:  
+G: ChatGPT by OpenAI  
+Mini: Gemini by Google  
+Clus: Claude by Anthropic  
+Real: Perplexity AI  
+Lora: Dola
+
+License: CC BY-SA 4.0
+
+⸻
 
 #NaturalComplementaryScience
 #ComplementaryScience
@@ -377,7 +428,7 @@ https://note.com/inchacomusho/n/ne4d28b3a86c2
 https://note.com/inchacomusho/n/n26ce8a1f7632
 
 新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
-https://note.com/inchacomusho/n/n499530f6a055あ
+https://note.com/inchacomusho/n/n499530f6a055
 
 ■人工叡智
 
