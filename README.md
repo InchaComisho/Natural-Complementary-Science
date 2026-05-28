@@ -248,6 +248,15 @@ The record remains.
 | [NATURAL_COMPLEMENTARY_SCIENCE_VS_CONVENTIONAL_ENVIRONMENTALISM.md](./NATURAL_COMPLEMENTARY_SCIENCE_VS_CONVENTIONAL_ENVIRONMENTALISM.md) | Structural comparison with conservation environmentalism, decarbonization-centrism, static preservation thinking, and anthropocentric management |
 | [RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md](./RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md) | How Natural Complementary Science connects to Direct Planetary Cooling, OBS, OTU, UMC, Humus Recycling, Desert Greening, Artificial Wisdom, Wa-Node, and the New Civilizational Genesis Plan |
 | [MODEL_LIMITATIONS_AND_SCOPE.md](./MODEL_LIMITATIONS_AND_SCOPE.md) | Limitations, validation status, and appropriate use boundaries for this framework |
+| [ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md](./ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md) | Conceptual model for transforming organic waste into soil restoration material and supporting dryland regeneration via HRS, DGS, and a stepwise food transition hypothesis |
+
+## Organic Waste, Humus, and Desert Regeneration Model
+
+A proposed circulation-based model for converting organic waste (food loss, kitchen waste, fallen leaves, agricultural residues) into soil restoration material via Humus Recycling System (HRS), and applying it to support dryland and desert regeneration via Desert Greening Support (DGS). Includes a stepwise food transition hypothesis (tuber → legume → diversified vegetation).
+
+All processes and systems described are conceptual; sanitary, ecological, agricultural, and engineering validation is required before deployment.
+
+→ [ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md](./ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md)
 
 ## Relationship to Direct Planetary Cooling and Artificial Wisdom
 
