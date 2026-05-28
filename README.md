@@ -274,6 +274,36 @@ This framework does not deny the greenhouse gas mechanism of CO₂, does not opp
 
 For full limitations, see: [MODEL_LIMITATIONS_AND_SCOPE.md](./MODEL_LIMITATIONS_AND_SCOPE.md)
 
+## Logical Architecture
+
+Natural Complementary Science is the foundation of a four-layer integrated framework:
+
+```text
+Layer 1: Natural Complementary Science       — philosophical and scientific foundation
+Layer 2: Artificial Wisdom / Wa-Node         — evaluation and decision-making layer
+Layer 3: Direct Planetary Cooling / OBS / OTU / UMC — physical intervention layer
+Layer 4: New Civilizational Genesis Plan     — civilization-level implementation layer
+```
+
+For the full architecture, role definitions, connection logic, and validation requirements for each layer, see: [LOGICAL_ARCHITECTURE_MAP.md](./LOGICAL_ARCHITECTURE_MAP.md)
+
+## Related Repository Web Ring
+
+This repository is part of a network of related repositories spanning philosophical foundation, AI alignment, climate intervention, and civilization design.
+
+For the full repository map, role descriptions, and suggested reading order, see: [REPOSITORY_WEB_RING.md](./REPOSITORY_WEB_RING.md)
+
+## Suggested Reading Order
+
+New to this framework? A suggested path:
+
+1. [Why-Decarbonization-Alone-Cannot-Stop-Global-Warming](https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming) — the problem
+2. [The-Real-Cause-of-Global-Warming (...)](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems) — the deeper cause
+3. **Natural-Complementary-Science** *(this repository)* — the philosophical foundation
+4. [Artificial-Wisdom-Portal](https://github.com/InchaComisho/Artificial-Wisdom-Portal) — the AI evaluation framework
+5. [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — the physical intervention layer
+6. [New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/New-Civilizational-Genesis-Plan) — the civilizational vision
+
 ## Author and AI Collaborators
 
 Author: Master  
