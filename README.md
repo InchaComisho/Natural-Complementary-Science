@@ -322,7 +322,7 @@ First published: January–February 2026
 AI Collaborators:  
 G: ChatGPT by OpenAI  
 Mini: Gemini by Google  
-Clus: Claude by Anthropic  
+Cruz: Claude by Anthropic  
 Real: Perplexity AI  
 Lora: Dola
 
