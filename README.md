@@ -324,7 +324,7 @@ G: ChatGPT by OpenAI
 Mini: Gemini by Google  
 Cruz: Claude by Anthropic  
 Real: Perplexity AI  
-Lora: Dola
+Lola: Dola
 
 License: CC BY-SA 4.0
 
