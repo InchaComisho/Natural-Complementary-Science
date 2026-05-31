@@ -313,6 +313,43 @@ New to this framework? A suggested path:
 5. [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — the physical intervention layer
 6. [New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/New-Civilizational-Genesis-Plan) — the civilizational vision
 
+## Climate and Carbon Sink Regeneration Framework
+
+Natural Complementary Science provides a higher-level conceptual framework for understanding climate stabilization not only as emissions reduction, but also as the restoration and support of natural circulation systems.
+
+In this perspective, global warming should not be addressed only through the reduction of CO₂ emissions. CO₂ remains an important greenhouse gas, and emissions reduction remains necessary. However, long-term climate stabilization also requires the regeneration of Earth's carbon fixation systems, including soils, forests, oceans, plankton systems, microbial ecosystems, water cycles, and organic matter circulation.
+
+Within the Natural Complementary Science framework, the following climate-related repositories form an interconnected structure:
+
+- [The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems)  
+  Core causal framework focusing on the weakening of carbon fixation systems.
+
+- [Why Decarbonization Alone Cannot Stop Global Warming](https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming)  
+  A complementary argument explaining why emissions reduction alone may be insufficient.
+
+- [Direct Planetary Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling)  
+  A proposed complementary physical intervention layer for thermal stress reduction.
+
+- [Desert Regeneration and Food Production Through Organic Matter Circulation](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation)  
+  A proposed land-based implementation pathway for carbon sink regeneration through organic matter circulation, humus formation, microbial recovery, vegetation transition, and food production support.
+
+This structure does not present any single repository as a complete or validated solution. Rather, it organizes a broader conceptual strategy:
+
+- emissions reduction
+- carbon sink regeneration
+- soil and microbial recovery
+- ocean and plankton support
+- water-cycle restoration
+- desert and vegetation regeneration
+- organic matter circulation
+- complementary thermal intervention
+- long-term governance and monitoring
+
+**Validation note:**
+This framework is conceptual and should not be treated as a validated climate model, agricultural protocol, geoengineering system, or policy prescription. Scientific, ecological, engineering, social, and governance validation are required.
+
+---
+
 ## Author and AI Collaborators
 
 Author: Master  
