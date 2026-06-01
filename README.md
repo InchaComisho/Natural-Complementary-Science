@@ -302,6 +302,12 @@ This repository is part of a network of related repositories spanning philosophi
 
 For the full repository map, role descriptions, and suggested reading order, see: [REPOSITORY_WEB_RING.md](./REPOSITORY_WEB_RING.md)
 
+- [Natural-Complementary-Science-Perspective-on-Global-Warming-](https://github.com/InchaComisho/Natural-Complementary-Science-Perspective-on-Global-Warming-) — Climate feedback model from the perspective of Natural Complementary Science.
+- [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — Related framework for coexistence science and bio-synthesis as natural-cycle restoration.
+- [-Everything-in-Nature-Is-a-Cycle](https://github.com/InchaComisho/-Everything-in-Nature-Is-a-Cycle) — Introductory explanation of natural circulation as the foundation of life.
+- [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
+- [The-Natural-Law-Civilization-Manifesto-Core-Edition](https://github.com/InchaComisho/The-Natural-Law-Civilization-Manifesto-Core-Edition) — Manifesto for civilization aligned with natural law and cycle restoration.
+
 ## Suggested Reading Order
 
 New to this framework? A suggested path:
