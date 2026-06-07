@@ -139,6 +139,16 @@ New Civilizational Genesis Plan は、これらを文明インフラとして統
 - [MODEL_LIMITATIONS_AND_SCOPE.md](./MODEL_LIMITATIONS_AND_SCOPE.md) — 制限事項と適用範囲。
 - [ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md](./ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md) — 有機物循環・腐葉土化・乾燥地再生モデル。
 
+---
+
+## マスター知識体系ポータル
+
+全体のリポジトリ地図と知識体系ナビゲーションはこちら：
+
+- [マスター知識体系ポータル](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
+---
+
 ## 関連リポジトリ
 
 - [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — 自然補完科学と新文明創成計画の統合索引。
