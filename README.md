@@ -354,6 +354,15 @@ This structure does not present any single repository as a complete or validated
 **Validation note:**
 This framework is conceptual and should not be treated as a validated climate model, agricultural protocol, geoengineering system, or policy prescription. Scientific, ecological, engineering, social, and governance validation are required.
 
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
 ---
 
 ## Author and AI Collaborators
