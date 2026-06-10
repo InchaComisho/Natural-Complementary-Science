@@ -304,6 +304,7 @@ For the full repository map, role descriptions, and suggested reading order, see
 
 - [Natural-Complementary-Science-Perspective-on-Global-Warming-](https://github.com/InchaComisho/Natural-Complementary-Science-Perspective-on-Global-Warming-) — Climate feedback model from the perspective of Natural Complementary Science.
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — Related framework for coexistence science and bio-synthesis as natural-cycle restoration.
+- [REIMEI Nature-Inspired Energy Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README.md) — Portal for nature-inspired distributed energy hypotheses, including Dual-Core rotational harvesting, REIMEI-NOP, sound/vibration energy, water-loop recovery, heat/exhaust recovery, vehicle energy recovery, and AI android energy-core concepts; an open hypothesis index, not a claim of proven technologies.
 - [REIMEI-NOP: Natural-Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README.md) — Related open hypothesis for nature-inspired engineering that explores whether lightning-like pre-discharge processes could be modeled in a small structure; not a proven power generator.
 - [NOTE article: 雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
 - [Original open concept: REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
