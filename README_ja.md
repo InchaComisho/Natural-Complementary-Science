@@ -153,6 +153,8 @@ New Civilizational Genesis Plan は、これらを文明インフラとして統
 
 - [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — 自然補完科学と新文明創成計画の統合索引。
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — 共生科学・自然補完実装科学の関連フレームワーク。
+- [放置杉林を負債から循環資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md) — 放置杉林、山林負債、腐葉土、土壌再生、生物多様性、地域循環価値を扱う自然循環回復の関連論考。
+- [NOTE原文：放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
 - [熊・鹿・猪が人里に降りてくる本当の理由──獣害ではなく、人間が森を壊した結果である](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README_ja.md) — 森林荒廃、生態系変位、人間と野生動物の衝突、共存を扱う関連論考。
 - [Natural-Complementary-Science-Perspective-on-Global-Warming-](https://github.com/InchaComisho/Natural-Complementary-Science-Perspective-on-Global-Warming-) — 自然補完科学から見た温暖化モデル。
 - [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Direct Planetary Cooling の統合索引。

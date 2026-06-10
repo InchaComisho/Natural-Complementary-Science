@@ -304,6 +304,8 @@ For the full repository map, role descriptions, and suggested reading order, see
 
 - [Natural-Complementary-Science-Perspective-on-Global-Warming-](https://github.com/InchaComisho/Natural-Complementary-Science-Perspective-on-Global-Warming-) — Climate feedback model from the perspective of Natural Complementary Science.
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — Related framework for coexistence science and bio-synthesis as natural-cycle restoration.
+- [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md) — Related natural-cycle restoration context for abandoned sugi plantations, forest liability, humus, soil regeneration, biodiversity, and local circular value.
+- [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Related ecological displacement context for habitat degradation, human-wildlife conflict, and coexistence.
 - [-Everything-in-Nature-Is-a-Cycle](https://github.com/InchaComisho/-Everything-in-Nature-Is-a-Cycle) — Introductory explanation of natural circulation as the foundation of life.
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
