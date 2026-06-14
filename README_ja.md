@@ -151,6 +151,8 @@ New Civilizational Genesis Plan は、これらを文明インフラとして統
 
 ## 関連リポジトリ
 
+- [科学技術は思想によって方向づけられる](https://github.com/InchaComisho/Artificial-Wisdom-Portal/blob/main/docs/SCIENCE_TECHNOLOGY_AND_PHILOSOPHY_ja.md)<br>
+  技術は性能だけでなく、生命保護、責任、循環、調和を中心に置く思想によって導かれるべきであることを示す関連原理。
 - [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — 自然補完科学と新文明創成計画の統合索引。
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — 共生科学・自然補完実装科学の関連フレームワーク。
 - [REIMEI 自然模倣型エネルギー・アーキテクチャ](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README_ja.md) — Dual-Core 回転エネルギー回収、REIMEI-NOP、音波・振動・圧力水循環・熱排気・車両エネルギー回収、AIアンドロイド用エネルギーコア構想を整理する、未検証のオープン仮説・オープン発明のポータル。

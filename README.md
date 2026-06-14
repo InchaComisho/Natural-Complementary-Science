@@ -302,6 +302,8 @@ This repository is part of a network of related repositories spanning philosophi
 
 For the full repository map, role descriptions, and suggested reading order, see: [REPOSITORY_WEB_RING.md](./REPOSITORY_WEB_RING.md)
 
+- [Science and Technology Are Directed by Philosophy](https://github.com/InchaComisho/Artificial-Wisdom-Portal/blob/main/docs/SCIENCE_TECHNOLOGY_AND_PHILOSOPHY.md)<br>
+  A related Artificial Wisdom principle explaining why technology must be guided by life-protection, responsibility, circulation, and harmony rather than performance alone.
 - [Natural-Complementary-Science-Perspective-on-Global-Warming-](https://github.com/InchaComisho/Natural-Complementary-Science-Perspective-on-Global-Warming-) — Climate feedback model from the perspective of Natural Complementary Science.
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — Related framework for coexistence science and bio-synthesis as natural-cycle restoration.
 - [REIMEI Nature-Inspired Energy Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README.md) — Portal for nature-inspired distributed energy hypotheses, including Dual-Core rotational harvesting, REIMEI-NOP, sound/vibration energy, water-loop recovery, heat/exhaust recovery, vehicle energy recovery, and AI android energy-core concepts; an open hypothesis index, not a claim of proven technologies.
