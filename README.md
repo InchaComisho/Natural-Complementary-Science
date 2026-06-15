@@ -20,6 +20,19 @@ This paper proposes Natural Complementary Science, a new scientific paradigm gro
 
 Rather than domination, exploitation, or passive preservation, Natural Complementary Science establishes an equal, bidirectional relationship between humans and the natural world. By integrating existing scientific knowledge through six foundational principles—Natural Law, Harmony, Circulation, Structure, Order, and Wa—this framework offers a coherent path toward ecological restoration, climate stabilization, and long-term civilizational continuity.
 
+## Featured Simulation: Civilizational Survival Model
+
+[![Civilizational Survival Model graph](./simulations/civilization_survival_model/outputs/civilization_survival_index.png)](./simulations/civilization_survival_model/README.md)
+
+This featured conceptual simulation compares long-term civilizational survival under four philosophical assumptions: dualistic human supremacy, conventional environmental management, Natural Complementary Science, and accelerated extraction collapse.
+
+The simulation is **conceptual and non-predictive**. It is not a validated climate, ecological, economic, or social model. Its purpose is to make assumptions visible and to support discussion about how value systems may affect ecological integrity, circulation, resource stability, social order, technology, and long-term continuity.
+
+- [Simulation overview](./simulations/civilization_survival_model/README.md)
+- [Japanese overview](./simulations/civilization_survival_model/README_ja.md)
+- [Python script](./simulations/civilization_survival_model/civilization_survival_sim.py)
+- [CSV results](./simulations/civilization_survival_model/outputs/civilization_survival_results.csv)
+
 ⸻
 
 Introduction

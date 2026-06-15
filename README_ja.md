@@ -14,6 +14,19 @@
 
 自然を支配するのでも、搾取するのでも、ただ手を出さずに保存するのでもなく、自然の循環が損なわれた部分を、人類の技術・知性・責任によって補助するという考え方です。
 
+## 注目シミュレーション：文明存続度モデル
+
+[![文明存続度モデルのグラフ](./simulations/civilization_survival_model/outputs/civilization_survival_index.png)](./simulations/civilization_survival_model/README_ja.md)
+
+この注目シミュレーションは、二元論・人間至上主義、従来型環境管理、自然補完科学、崩壊加速型抽出という四つの哲学的前提のもとで、長期的な文明存続度がどのように変化し得るかを比較する概念モデルです。
+
+本シミュレーションは **概念的・非予測的** なものです。検証済みの気候モデル、生態モデル、経済モデル、社会モデルではありません。目的は、価値体系の違いが生態系完全性、循環、資源安定性、社会秩序、技術、長期的持続性にどのような影響を与え得るかを議論するために、仮定を見える形にすることです。
+
+- [日本語版の概要](./simulations/civilization_survival_model/README_ja.md)
+- [English overview](./simulations/civilization_survival_model/README.md)
+- [Pythonスクリプト](./simulations/civilization_survival_model/civilization_survival_sim.py)
+- [CSV結果](./simulations/civilization_survival_model/outputs/civilization_survival_results.csv)
+
 ## 中核定義
 
 自然補完科学とは、自然法則に基づき、人類と自然の間に補完的かつ対等な関係を築くことで、持続可能な文明を構築しようとする科学的・哲学的フレームワークです。
