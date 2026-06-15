@@ -1,0 +1,1205 @@
+year,scenario,ecosystem_integrity,circulation_health,resource_base,social_order,technological_capacity,civilizational_survival_index
+0,Dualism / Human Supremacy,0.82,0.78,0.86,0.8,0.55,0.788
+1,Dualism / Human Supremacy,0.7819397499999999,0.74836569625,0.90547914342,0.796173786581418,0.5570053613694534,0.777895781870658
+2,Dualism / Human Supremacy,0.7438299958600824,0.7166192176515052,0.9478932528343889,0.7926160496711508,0.5643111314748399,0.7672059743359353
+3,Dualism / Human Supremacy,0.705659886214324,0.6847568627708875,0.9872336309804248,0.789276919860478,0.5718924155891295,0.7559146872910886
+4,Dualism / Human Supremacy,0.6674196578989156,0.6527754375412763,1.0,0.7857447826940562,0.5795356081987642,0.7392350349789786
+5,Dualism / Human Supremacy,0.6291083336524067,0.6206761624679257,1.0,0.7818223232103759,0.5871356537540783,0.7198884545696677
+6,Dualism / Human Supremacy,0.5907292386920995,0.5884624096883042,1.0,0.777509660279607,0.5946882600171539,0.7004296490733625
+7,Dualism / Human Supremacy,0.5522858596751654,0.556137620803694,1.0,0.7727584234703956,0.6021886026753283,0.6808527868915654
+8,Dualism / Human Supremacy,0.513781864877929,0.5237053170458978,1.0,0.7675410412739758,0.609631554129342,0.6611552003288836
+9,Dualism / Human Supremacy,0.4752211148301817,0.491169104647888,1.0,0.7618586631557402,0.6170119994240552,0.641338610026793
+10,Dualism / Human Supremacy,0.4366076598868666,0.4585326737135688,1.0,0.7557124850176918,0.6243248367592498,0.621404822823031
+11,Dualism / Human Supremacy,0.39794573769879,0.42579979704999266,1.0,0.7491037513726259,0.6315649780243486,0.6013557310804638
+12,Dualism / Human Supremacy,0.35923977057962087,0.39297432896234585,1.0,0.7420337574764385,0.6387273493565894,0.5811933119715974
+13,Dualism / Human Supremacy,0.3204943627666789,0.3600602040120389,1.0,0.7345038514173929,0.6458068917221806,0.5514356718928444
+14,Dualism / Human Supremacy,0.2817142975732476,0.32706143573825436,1.0,0.7258831725061465,0.6525808520680817,0.5110981235679651
+15,Dualism / Human Supremacy,0.24291342423468204,0.2939864396756557,1.0,0.7154855432467254,0.6587995911388779,0.46714838404710946
+16,Dualism / Human Supremacy,0.20411567864637076,0.26084853785983175,0.9987042379443934,0.7030805009728194,0.6643593654271578,0.4225384812133802
+17,Dualism / Human Supremacy,0.1653490274321991,0.22766305404150056,0.9942515631586484,0.6886265697123499,0.6692158454056053,0.3769116662714382
+18,Dualism / Human Supremacy,0.12664297918391404,0.1944461325424029,0.9866445786590667,0.6720837789427181,0.6733262365069169,0.3302857475981467
+19,Dualism / Human Supremacy,0.08802847063771285,0.16121469814266198,0.9758880400278064,0.6534137593389746,0.676649730650729,0.28268073637786595
+20,Dualism / Human Supremacy,0.049537729985564743,0.12798640706776576,0.9619889374129201,0.6325798343808895,0.6791479668605902,0.23411880985552933
+21,Dualism / Human Supremacy,0.011204117543482633,0.09477958903511122,0.9449565672678792,0.6095471067114819,0.6807854989331441,0.18462425327569745
+22,Dualism / Human Supremacy,0.0,0.06201725120621756,0.9258995101283382,0.5846388501672966,0.6815403325085918,0.15146819206231704
+23,Dualism / Human Supremacy,0.0,0.029875510596008327,0.9052978378389259,0.5585708225666229,0.6815986132764119,0.125076772620996
+24,Dualism / Human Supremacy,0.0,0.0,0.8832620011670625,0.5315789636071008,0.6810388237360154,0.0994931271480792
+25,Dualism / Human Supremacy,0.0,0.0,0.8612275079900961,0.5037155513757199,0.6798806761778629,0.09079090192216346
+26,Dualism / Human Supremacy,0.0,0.0,0.8391957943672692,0.475624304403473,0.6783477196418088,0.08201757649815564
+27,Dualism / Human Supremacy,0.0,0.0,0.8171677598401289,0.4473061906873971,0.6764502678105627,0.07317450735219164
+28,Dualism / Human Supremacy,0.0,0.0,0.7951442791973835,0.4187621878242872,0.6741987935783137,0.06426306337095114
+29,Dualism / Human Supremacy,0.0,0.0,0.7731262020927956,0.3899932825852191,0.6716039271149671,0.05528462551783872
+30,Dualism / Human Supremacy,0.0,0.0,0.7511143526677196,0.36100047048596107,0.6686764539324711,0.04624058649968524
+31,Dualism / Human Supremacy,0.0,0.0,0.7291095291782816,0.33178475535336277,0.6654273129554666,0.03127745036921689
+32,Dualism / Human Supremacy,0.0,0.0,0.7071125036271885,0.30195682221680864,0.6617343353328007,0.01244700758949896
+33,Dualism / Human Supremacy,0.0,0.0,0.6851243412223897,0.27127041311598354,0.6575209798211147,0.0
+34,Dualism / Human Supremacy,0.0,0.0,0.663146290870819,0.23971072176684413,0.6527879691110694,0.0
+35,Dualism / Human Supremacy,0.0,0.0,0.6411795997449524,0.20726270303942423,0.6475363774250693,0.0
+36,Dualism / Human Supremacy,0.0,0.0,0.6192255124391323,0.17391106875538825,0.6417676380793667,0.0
+37,Dualism / Human Supremacy,0.0,0.0,0.5972852701077418,0.13964028339906998,0.6354835511263264,0.0
+38,Dualism / Human Supremacy,0.0,0.0,0.5753601095850386,0.10443455974020621,0.6286862910791401,0.0
+39,Dualism / Human Supremacy,0.0,0.0,0.5534512624864486,0.06827785436654113,0.6213784147214985,0.0
+40,Dualism / Human Supremacy,0.0,0.0,0.531559954291117,0.031153863124441197,0.6135628690049681,0.0
+41,Dualism / Human Supremacy,0.0,0.0,0.5096874034055051,0.0,0.6052853965987142,0.0
+42,Dualism / Human Supremacy,0.0,0.0,0.4878347184536682,0.0,0.5967853965987142,0.0
+43,Dualism / Human Supremacy,0.0,0.0,0.4660024335018313,0.0,0.5882853965987143,0.0
+44,Dualism / Human Supremacy,0.0,0.0,0.44419054854999435,0.0,0.5797853965987143,0.0
+45,Dualism / Human Supremacy,0.0,0.0,0.42239906359815743,0.0,0.5712853965987144,0.0
+46,Dualism / Human Supremacy,0.0,0.0,0.4006279786463205,0.0,0.5627853965987144,0.0
+47,Dualism / Human Supremacy,0.0,0.0,0.3788772936944836,0.0,0.5542853965987145,0.0
+48,Dualism / Human Supremacy,0.0,0.0,0.35714700874264665,0.0,0.5457853965987145,0.0
+49,Dualism / Human Supremacy,0.0,0.0,0.3354371237908097,0.0,0.5372853965987145,0.0
+50,Dualism / Human Supremacy,0.0,0.0,0.3137476388389728,0.0,0.5286813760543632,0.0
+51,Dualism / Human Supremacy,0.0,0.0,0.2920788035364423,0.0,0.5199224306174987,0.0
+52,Dualism / Human Supremacy,0.0,0.0,0.27043098970296026,0.0,0.5110087077856161,0.0
+53,Dualism / Human Supremacy,0.0,0.0,0.2488045688042748,0.0,0.5019403577120658,0.0
+54,Dualism / Human Supremacy,0.0,0.0,0.22719991194576583,0.0,0.4927175332035249,0.0
+55,Dualism / Human Supremacy,0.0,0.0,0.2056173898660774,0.0,0.4833403897174232,0.0
+56,Dualism / Human Supremacy,0.0,0.0,0.18405737293075558,0.0,0.47380908535932376,0.0
+57,Dualism / Human Supremacy,0.0,0.0,0.16252023112589323,0.0,0.46412378088025774,0.0
+58,Dualism / Human Supremacy,0.0,0.0,0.14100633405178062,0.0,0.4542846396740141,0.0
+59,Dualism / Human Supremacy,0.0,0.0,0.11951605091656299,0.0,0.444291827774384,0.0
+60,Dualism / Human Supremacy,0.0,0.0,0.09804975052990447,0.0,0.43414551385235944,0.0
+61,Dualism / Human Supremacy,0.0,0.0,0.07660780129665881,0.0,0.4238458692132873,0.0
+62,Dualism / Human Supremacy,0.0,0.0,0.05519057121054692,0.0,0.4133930677939777,0.0
+63,Dualism / Human Supremacy,0.0,0.0,0.03379842784784137,0.0,0.40278728615976733,0.0
+64,Dualism / Human Supremacy,0.0,0.0,0.012431738361057931,0.0,0.3920287035015376,0.0
+65,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.38111750163268804,0.0
+66,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.37011750163268803,0.0
+67,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.359117501632688,0.0
+68,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.348117501632688,0.0
+69,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.337117501632688,0.0
+70,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.326117501632688,0.0
+71,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.315117501632688,0.0
+72,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.30411750163268797,0.0
+73,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.29311750163268796,0.0
+74,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.28211750163268795,0.0
+75,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.27111750163268794,0.0
+76,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.26011750163268793,0.0
+77,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.24911750163268792,0.0
+78,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.2381175016326879,0.0
+79,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.2271175016326879,0.0
+80,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.2161175016326879,0.0
+81,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.20511750163268788,0.0
+82,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.19411750163268787,0.0
+83,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.18311750163268786,0.0
+84,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.17211750163268785,0.0
+85,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.16111750163268784,0.0
+86,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.15011750163268783,0.0
+87,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.13911750163268782,0.0
+88,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.1281175016326878,0.0
+89,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.11711750163268782,0.0
+90,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.10611750163268782,0.0
+91,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.09511750163268783,0.0
+92,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.08411750163268783,0.0
+93,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.07311750163268783,0.0
+94,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.06211750163268783,0.0
+95,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.05111750163268783,0.0
+96,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.040117501632687826,0.0
+97,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.029117501632687823,0.0
+98,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.01811750163268782,0.0
+99,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.007117501632687819,0.0
+100,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+101,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+102,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+103,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+104,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+105,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+106,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+107,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+108,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+109,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+110,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+111,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+112,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+113,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+114,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+115,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+116,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+117,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+118,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+119,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+120,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+121,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+122,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+123,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+124,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+125,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+126,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+127,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+128,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+129,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+130,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+131,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+132,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+133,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+134,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+135,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+136,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+137,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+138,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+139,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+140,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+141,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+142,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+143,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+144,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+145,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+146,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+147,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+148,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+149,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+150,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+151,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+152,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+153,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+154,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+155,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+156,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+157,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+158,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+159,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+160,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+161,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+162,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+163,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+164,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+165,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+166,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+167,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+168,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+169,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+170,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+171,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+172,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+173,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+174,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+175,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+176,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+177,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+178,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+179,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+180,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+181,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+182,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+183,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+184,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+185,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+186,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+187,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+188,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+189,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+190,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+191,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+192,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+193,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+194,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+195,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+196,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+197,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+198,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+199,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+200,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+201,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+202,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+203,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+204,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+205,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+206,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+207,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+208,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+209,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+210,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+211,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+212,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+213,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+214,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+215,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+216,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+217,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+218,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+219,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+220,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+221,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+222,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+223,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+224,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+225,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+226,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+227,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+228,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+229,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+230,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+231,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+232,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+233,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+234,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+235,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+236,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+237,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+238,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+239,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+240,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+241,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+242,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+243,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+244,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+245,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+246,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+247,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+248,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+249,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+250,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+251,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+252,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+253,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+254,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+255,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+256,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+257,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+258,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+259,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+260,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+261,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+262,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+263,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+264,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+265,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+266,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+267,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+268,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+269,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+270,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+271,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+272,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+273,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+274,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+275,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+276,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+277,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+278,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+279,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+280,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+281,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+282,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+283,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+284,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+285,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+286,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+287,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+288,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+289,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+290,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+291,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+292,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+293,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+294,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+295,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+296,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+297,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+298,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+299,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+300,Dualism / Human Supremacy,0.0,0.0,0.0,0.0,0.0,0.0
+0,Conventional Environmentalism,0.82,0.78,0.86,0.8,0.55,0.788
+1,Conventional Environmentalism,0.7976024999999999,0.7615561875000001,0.9080747969999999,0.7982428284545,0.5555971563836988,0.7865808961815448
+2,Conventional Environmentalism,0.7754205402832228,0.7431835836782794,0.954373266267715,0.7968418868373679,0.5614778750244555,0.7849707817861304
+3,Conventional Environmentalism,0.7534471420517697,0.7248823675494002,0.9989068139121257,0.7957759098904843,0.5676328987642397,0.7831657736453028
+4,Conventional Environmentalism,0.7316757406647987,0.7066528034371526,1.0,0.7945653537521853,0.5737839869480095,0.7727291248163565
+5,Conventional Environmentalism,0.7101058778703703,0.6884977731563535,1.0,0.7931998762343272,0.5799227858341184,0.7621284666687603
+6,Conventional Environmentalism,0.6887372353467414,0.6704201456750731,1.0,0.7916812584117626,0.5860479171598243,0.7515831875005375
+7,Conventional Environmentalism,0.6675694814403315,0.6524227107353923,1.0,0.7900112939994988,0.5921580188058198,0.7410940180964543
+8,Conventional Environmentalism,0.6466022703757132,0.6345081793163687,1.0,0.7881917885553495,0.598251744902818,0.7306616687153903
+9,Conventional Environmentalism,0.6258352415210595,0.6166791841117493,1.0,0.7862245586924679,0.6043277659310502,0.7202868288812303
+10,Conventional Environmentalism,0.6052680187079115,0.5989382800231595,1.0,0.784111431301829,0.6103847688127667,0.7099701671947143
+11,Conventional Environmentalism,0.5849002096041052,0.5812879446694134,1.0,0.7818542427847409,0.6164214569978294,0.6997123311660789
+12,Conventional Environmentalism,0.5647314051386803,0.5637305789125081,1.0,0.7794548382954603,0.6224365505424885,0.6895139470682992
+13,Conventional Environmentalism,0.5447611789775706,0.5462685074007874,1.0,0.7769015050381901,0.6284286640878322,0.6793735727079798
+14,Conventional Environmentalism,0.5249890894639655,0.5289039801372599,1.0,0.7741880963080985,0.6343963569546051,0.6692905720151799
+15,Conventional Environmentalism,0.5054146804943641,0.5116391735921756,1.0,0.771317511758391,0.6403382145604306,0.6592656457661549
+16,Conventional Environmentalism,0.4860374807837595,0.49447619114390745,1.0,0.7682926265031361,0.6462528481989588,0.649299470816471
+17,Conventional Environmentalism,0.4668570031968858,0.4774170635460172,1.0,0.7651162911463861,0.6521388948192762,0.6393926999994556
+18,Conventional Environmentalism,0.44787274414338346,0.4604637494204658,1.0,0.7617913318056518,0.6579950168055271,0.629545962049532
+19,Conventional Environmentalism,0.42908418303476364,0.44361813577685966,1.0,0.7583205501303252,0.6638199017567,0.6197598615498628
+20,Conventional Environmentalism,0.41049078180106835,0.426882038557555,1.0,0.7547067233156225,0.6696122622665406,0.6100349789037067
+21,Conventional Environmentalism,0.39209198446514926,0.4102572032083775,1.0,0.7509526041125996,0.675370835703554,0.6003718703288844
+22,Conventional Environmentalism,0.3738872167725082,0.39374530527465373,1.0,0.7470609208347639,0.6810943839910669,0.5907710678747372
+23,Conventional Environmentalism,0.3558758858746647,0.3773479510221936,1.0,0.7430343773617926,0.6867816933873231,0.5812330794609489
+24,Conventional Environmentalism,0.33805738006404146,0.3610666780828081,1.0,0.7388756531408364,0.6924315742655905,0.5679196896724695
+25,Conventional Environmentalism,0.3204310685583805,0.3449029561238956,1.0,0.734331489901534,0.6979552532465905,0.5511576734848231
+26,Conventional Environmentalism,0.30299788635930613,0.3288587821733316,1.0,0.72917530812122,0.7032702169102691,0.5309141656743969
+27,Conventional Environmentalism,0.28576014974727126,0.3129366068351761,1.0,0.7231827080663678,0.7082921232009568,0.5107070583502415
+28,Conventional Environmentalism,0.26872152297482577,0.29713931701249063,1.0,0.7163681390291576,0.7130158418563796,0.4905419326100765
+29,Conventional Environmentalism,0.251885549695171,0.2814696963007711,1.0,0.7087461214315097,0.7174364200920297,0.4704242639920835
+30,Conventional Environmentalism,0.2352556492802879,0.265930423600091,1.0,0.7003312404106391,0.7215490815842679,0.4503594183299679
+31,Conventional Environmentalism,0.2188351134296822,0.25052407194072324,1.0,0.6911381393103542,0.7253492253586351,0.43035264788698957
+32,Conventional Environmentalism,0.202627103064683,0.23525310751718828,0.9987887862749534,0.6811681897411542,0.7288257043540103,0.4101641744944397
+33,Conventional Environmentalism,0.1866347606994438,0.22011992917403087,0.9962070364017117,0.6704211500292915,0.7319668674300036,0.3897642559189799
+34,Conventional Environmentalism,0.1708612136533407,0.20512686950309345,0.9922706570936833,0.6588971020558572,0.7347615892573256,0.36915824956776294
+35,Conventional Environmentalism,0.15530955945615513,0.1902761899151605,0.9869958017536078,0.6465964496920705,0.7371993187226198,0.3483516087189252
+36,Conventional Environmentalism,0.13998285102508745,0.17557007581532078,0.9803988643057817,0.6335199166259151,0.7392701259318134,0.32734987369399837
+37,Conventional Environmentalism,0.12488408168992687,0.16101063190868278,0.9724964721438029,0.6196685435706193,0.7409647477329829,0.3061586625927822
+38,Conventional Environmentalism,0.11001617014323742,0.14659987766109672,0.9633054782001669,0.6050436848485148,0.7422746316842843,0.2847836616453776
+39,Conventional Environmentalism,0.09538194539266767,0.13233974293753117,0.9528429521483192,0.5896470043468335,0.7431919783974401,0.26323061523689417
+40,Conventional Environmentalism,0.08098413179242936,0.11823206383873383,0.9411261707519268,0.5734804708450273,0.7437097821925772,0.24150531566096906
+41,Conventional Environmentalism,0.06682533423059515,0.10427857875478858,0.9281726073801739,0.55654635271618,0.7438218700058583,0.21961359265865382
+42,Conventional Environmentalism,0.05290802354812295,0.09048092465217514,0.9139999207117957,0.538847212008045,0.7435229384973138,0.19756130279944517
+43,Conventional Environmentalism,0.03923452226440713,0.0768406336089556,0.8986259426543253,0.5203858979121437,0.7428085893125278,0.1753543187612242
+44,Conventional Environmentalism,0.025806990682680348,0.06335912961076474,0.8820686655086292,0.5011655396322127,0.7416753624583367,0.1529985185656369
+45,Conventional Environmentalism,0.012627413446733411,0.050037725618378416,0.864346228412234,0.481189538666059,0.740120767759421,0.1304997748249841
+46,Conventional Environmentalism,0.0,0.03688215711651307,0.8454892173710945,0.4604644176950168,0.738143381914449,0.10805736267220953
+47,Conventional Environmentalism,0.0,0.024079029554548326,0.8260201872608622,0.4391177207692321,0.7357477044301368,0.09340591147031285
+48,Conventional Environmentalism,0.0,0.011620533536748339,0.8059562158089556,0.4174253943024863,0.7330285356220828,0.07874821074751426
+49,Conventional Environmentalism,0.0,0.0,0.7853379392833593,0.39539114530741615,0.7299910559164999,0.0643753652444343
+50,Conventional Environmentalism,0.0,0.0,0.7647235507317861,0.37303536634831386,0.7266462427220676,0.05656463937081105
+51,Conventional Environmentalism,0.0,0.0,0.7441134435411019,0.35060936666282777,0.7230839972340524,0.04872249343104976
+52,Conventional Environmentalism,0.0,0.0,0.7235078960246423,0.32811368795245904,0.7193112536742238,0.03381487174993866
+53,Conventional Environmentalism,0.0,0.0,0.7029071776199393,0.3050798786895924,0.7151755454444004,0.018422361450664282
+54,Conventional Environmentalism,0.0,0.0,0.6823117529217704,0.2814871747928246,0.7106726706710963,0.00273071433950961
+55,Conventional Environmentalism,0.0,0.0,0.6617220919033113,0.25732757561148606,0.7058028556569037,0.0
+56,Conventional Environmentalism,0.0,0.0,0.6411386642480704,0.23259297022346628,0.7005664975085784,0.0
+57,Conventional Environmentalism,0.0,0.0,0.6205619391312595,0.207275135838563,0.6949641674849933,0.0
+58,Conventional Environmentalism,0.0,0.0,0.5999923849968787,0.1813657361763422,0.6889966143905721,0.0
+59,Conventional Environmentalism,0.0,0.0,0.5794304693304587,0.15485631981809303,0.6826647680150747,0.0
+60,Conventional Environmentalism,0.0,0.0,0.5588766584273994,0.12773831853245549,0.6759697426206528,0.0
+61,Conventional Environmentalism,0.0,0.0,0.538331417156845,0.10000304557429193,0.6689128404771253,0.0
+62,Conventional Environmentalism,0.0,0.0,0.5177952087210342,0.07164169395636666,0.6614955554464715,0.0
+63,Conventional Environmentalism,0.0,0.0,0.4972684944100627,0.04264533469339063,0.6537195766175802,0.0
+64,Conventional Environmentalism,0.0,0.0,0.47675173335199217,0.013004915017981459,0.6455867919923377,0.0
+65,Conventional Environmentalism,0.0,0.0,0.45624538225824196,0.0,0.6371796842424662,0.0
+66,Conventional Environmentalism,0.0,0.0,0.43574979226241156,0.0,0.6286796842424662,0.0
+67,Conventional Environmentalism,0.0,0.0,0.4152650822665812,0.0,0.6201796842424663,0.0
+68,Conventional Environmentalism,0.0,0.0,0.39479125227075085,0.0,0.6116796842424663,0.0
+69,Conventional Environmentalism,0.0,0.0,0.3743283022749205,0.0,0.6031796842424664,0.0
+70,Conventional Environmentalism,0.0,0.0,0.3538762322790901,0.0,0.5946796842424664,0.0
+71,Conventional Environmentalism,0.0,0.0,0.3334350422832597,0.0,0.5861796842424665,0.0
+72,Conventional Environmentalism,0.0,0.0,0.3130047322874293,0.0,0.5775613631159183,0.0
+73,Conventional Environmentalism,0.0,0.0,0.29258545374264094,0.0,0.5687971112036857,0.0
+74,Conventional Environmentalism,0.0,0.0,0.27217739344030023,0.0,0.5598870073018474,0.0
+75,Conventional Environmentalism,0.0,0.0,0.25178073807095386,0.0,0.5508311315407066,0.0
+76,Conventional Environmentalism,0.0,0.0,0.23139567422258175,0.0,0.5416295653840706,0.0
+77,Conventional Environmentalism,0.0,0.0,0.21102238837889015,0.0,0.5322823916285176,0.0
+78,Conventional Environmentalism,0.0,0.0,0.19066106691760565,0.0,0.5227896944026525,0.0
+79,Conventional Environmentalism,0.0,0.0,0.17031189610877026,0.0,0.5131515591663497,0.0
+80,Conventional Environmentalism,0.0,0.0,0.14997506211303735,0.0,0.5033680727099837,0.0
+81,Conventional Environmentalism,0.0,0.0,0.1296507509799686,0.0,0.4934393231536483,0.0
+82,Conventional Environmentalism,0.0,0.0,0.10933914864633192,0.0,0.48336539994636235,0.0
+83,Conventional Environmentalism,0.0,0.0,0.08904044093440057,0.0,0.47314639386526475,0.0
+84,Conventional Environmentalism,0.0,0.0,0.06875481355025302,0.0,0.4627823970147962,0.0
+85,Conventional Environmentalism,0.0,0.0,0.04848245208207408,0.0,0.4522735028258694,0.0
+86,Conventional Environmentalism,0.0,0.0,0.028223541998456964,0.0,0.4416198060550271,0.0
+87,Conventional Environmentalism,0.0,0.0,0.007978268646706532,0.0,0.4308214027835875,0.0
+88,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.41987839041677827,0.0
+89,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.40887839041677826,0.0
+90,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.39787839041677825,0.0
+91,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.38687839041677824,0.0
+92,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.37587839041677823,0.0
+93,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.3648783904167782,0.0
+94,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.3538783904167782,0.0
+95,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.3428783904167782,0.0
+96,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.3318783904167782,0.0
+97,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.3208783904167782,0.0
+98,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.30987839041677817,0.0
+99,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.29887839041677816,0.0
+100,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.28787839041677815,0.0
+101,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.27687839041677814,0.0
+102,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.26587839041677813,0.0
+103,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.2548783904167781,0.0
+104,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.2438783904167781,0.0
+105,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.2328783904167781,0.0
+106,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.2218783904167781,0.0
+107,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.21087839041677808,0.0
+108,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.19987839041677807,0.0
+109,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.18887839041677806,0.0
+110,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.17787839041677805,0.0
+111,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.16687839041677804,0.0
+112,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.15587839041677803,0.0
+113,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.14487839041677802,0.0
+114,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.13387839041677801,0.0
+115,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.12287839041677802,0.0
+116,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.11187839041677802,0.0
+117,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.10087839041677803,0.0
+118,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.08987839041677803,0.0
+119,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.07887839041677804,0.0
+120,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.06787839041677804,0.0
+121,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.05687839041677804,0.0
+122,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.045878390416778034,0.0
+123,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.03487839041677803,0.0
+124,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.023878390416778028,0.0
+125,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.012878390416778027,0.0
+126,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0018783904167780276,0.0
+127,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+128,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+129,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+130,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+131,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+132,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+133,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+134,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+135,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+136,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+137,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+138,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+139,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+140,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+141,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+142,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+143,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+144,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+145,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+146,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+147,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+148,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+149,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+150,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+151,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+152,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+153,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+154,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+155,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+156,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+157,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+158,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+159,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+160,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+161,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+162,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+163,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+164,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+165,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+166,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+167,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+168,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+169,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+170,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+171,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+172,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+173,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+174,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+175,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+176,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+177,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+178,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+179,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+180,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+181,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+182,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+183,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+184,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+185,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+186,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+187,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+188,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+189,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+190,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+191,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+192,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+193,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+194,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+195,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+196,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+197,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+198,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+199,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+200,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+201,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+202,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+203,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+204,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+205,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+206,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+207,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+208,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+209,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+210,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+211,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+212,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+213,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+214,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+215,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+216,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+217,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+218,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+219,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+220,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+221,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+222,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+223,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+224,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+225,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+226,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+227,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+228,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+229,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+230,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+231,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+232,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+233,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+234,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+235,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+236,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+237,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+238,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+239,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+240,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+241,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+242,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+243,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+244,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+245,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+246,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+247,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+248,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+249,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+250,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+251,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+252,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+253,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+254,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+255,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+256,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+257,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+258,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+259,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+260,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+261,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+262,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+263,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+264,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+265,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+266,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+267,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+268,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+269,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+270,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+271,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+272,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+273,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+274,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+275,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+276,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+277,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+278,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+279,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+280,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+281,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+282,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+283,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+284,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+285,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+286,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+287,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+288,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+289,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+290,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+291,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+292,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+293,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+294,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+295,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+296,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+297,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+298,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+299,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+300,Conventional Environmentalism,0.0,0.0,0.0,0.0,0.0,0.0
+0,Natural Complementary Science,0.82,0.78,0.86,0.8,0.55,0.788
+1,Natural Complementary Science,0.8116435,0.7733388525,0.9102900049200001,0.800432605822303,0.5549008132106671,0.7944407363034122
+2,Natural Complementary Science,0.8035141909240757,0.7667894718239137,0.9599388989442836,0.8011766960900568,0.5600855546352886,0.8009244648990953
+3,Natural Complementary Science,0.7956065446053775,0.7603529490030284,1.0,0.8021606404886438,0.5655028397591978,0.8056445806815866
+4,Natural Complementary Science,0.7879154530609301,0.754030250576036,1.0,0.8030957897686498,0.570927606077347,0.8024393276353203
+5,Natural Complementary Science,0.7804367158433211,0.7478219177255373,1.0,0.8039833985101204,0.5763594732654279,0.7993199512874414
+6,Natural Complementary Science,0.7731661660391711,0.7417283785991683,1.0,0.804824708742804,0.5817980709353703,0.796285457866501
+7,Natural Complementary Science,0.7660996712257216,0.7357499522908671,1.0,0.8056209494587919,0.5872430385310407,0.793334835712356
+8,Natural Complementary Science,0.7592331344126733,0.7298868527662264,1.0,0.8063733361539688,0.5926940252202724,0.7904670564604811
+9,Natural Complementary Science,0.7525624949669286,0.7241391927311276,1.0,0.8070830703975982,0.5981506897834531,0.7876810762108456
+10,Natural Complementary Science,0.746083729518039,0.7185069874428525,1.0,0.8077513394293677,0.603612700498888,0.7849758366804187
+11,Natural Complementary Science,0.7397928528422941,0.712990158462875,1.0,0.8083793157832231,0.6090797350251539,0.7823502663384059
+12,Natural Complementary Science,0.7336859187235368,0.7075885373505436,1.0,0.8089681569373252,0.6145514802806524,0.779803281523361
+13,Natural Complementary Science,0.7277590207889262,0.7023018692968885,1.0,0.809519004989464,0.6200276323205681,0.7773337875413764
+14,Natural Complementary Science,0.722008293318004,0.6971298166978012,1.0,0.8100329863572726,0.6255078962114263,0.774940679744585
+15,Natural Complementary Science,0.7164299120235589,0.6920719626658676,1.0,0.8105112115025807,0.630991985903447,0.7726228445892664
+16,Natural Complementary Science,0.7110200948029111,0.6871278144801634,1.0,0.8109547746792587,0.6364796241008811,0.770379160672891
+17,Natural Complementary Science,0.7057751024583714,0.6822968069733539,1.0,0.8113647537039017,0.6419705421305123,0.7682084997494865
+18,Natural Complementary Science,0.7006912393857533,0.6775783058554801,1.0,0.8117422097487095,0.647464479808502,0.7661097277227525
+19,Natural Complementary Science,0.6957648542299402,0.6729716109738526,1.0,0.812088187155922,0.6529611853057493,0.7640817056164084
+20,Natural Complementary Science,0.6909923405066288,0.6684759595085201,1.0,0.8124037132731757,0.6584604150119348,0.7621232905212885
+21,Natural Complementary Science,0.6863701371894863,0.6640905291028235,1.0,0.8126897983091491,0.6639619333984079,0.7602333365187649
+22,Natural Complementary Science,0.6818947292620705,0.6598144409285968,1.0,0.8129474352088717,0.6694655128800789,0.7584106955801089
+23,Natural Complementary Science,0.6775626482339747,0.655646762685625,1.0,0.8131775995480762,0.6749709336764637,0.7566542184414564
+24,Natural Complementary Science,0.6733704726207573,0.6515865115350225,1.0,0.8133812494459792,0.6804779836720315,0.754962755454083
+25,Natural Complementary Science,0.6693148283873249,0.6476326569662457,1.0,0.81355932549588,0.6859864582759986,0.7533351574097408
+26,Natural Complementary Science,0.6653923893545303,0.6437841235975136,1.0,0.8137127507129749,0.6914961602817024,0.7517702763408539
+27,Natural Complementary Science,0.6615998775688426,0.6400397939094568,1.0,0.8138424304987895,0.6970068997256926,0.7502669662954047
+28,Natural Complementary Science,0.6579340636350359,0.636398510911879,1.0,0.8139492526216384,0.7025184937466658,0.7488240840863929
+29,Natural Complementary Science,0.6543917670119274,0.6328590807435668,1.0,0.8140340872125287,0.7080307664443659,0.7474404900157859
+30,Natural Complementary Science,0.6509698562712799,0.6294202752051385,1.0,0.8140977867759284,0.7135435487385733,0.7461150485729152
+31,Natural Complementary Science,0.6476652493200595,0.6260808342249841,1.0,0.8141411862148334,0.7190566782282919,0.744846629107318
+32,Natural Complementary Science,0.6444749135863127,0.6228394682583964,1.0,0.8141651028695671,0.7245699990512484,0.7436341064760528
+33,Natural Complementary Science,0.6413958661689977,0.6196948606200571,1.0,0.8141703365697596,0.7300833617438065,0.7424763616655582
+34,Natural Complementary Science,0.6384251739521718,0.6166456697500882,1.0,0.8141576696989605,0.7355966231013982,0.7413722823881574
+35,Natural Complementary Science,0.6355599536839948,0.61369053141394,1.0,0.8141278672713446,0.7411096460395689,0.740320763653342
+36,Natural Complementary Science,0.6327973720210691,0.6108280608364343,1.0,0.8140816770199816,0.7466222994557288,0.7393207083139994
+37,Natural Complementary Science,0.6301346455386927,0.608056854770336,1.0,0.8140198294961483,0.752134458091698,0.7383710275877837
+38,Natural Complementary Science,0.6275690407076451,0.605375493499878,1.0,0.8139430381791688,0.7576460023971313,0.7374706415538513
+39,Natural Complementary Science,0.6250978738381817,0.6027825427797108,1.0,0.8138519995962801,0.7631568183939016,0.7366184796252144
+40,Natural Complementary Science,0.6227185109919487,0.6002765557097981,1.0,0.8137473934520271,0.7686667975415179,0.7358134809969898
+41,Natural Complementary Science,0.6204283678625706,0.5978560745468259,1.0,0.8136298827667017,0.7741758366036515,0.735054595070848
+42,Natural Complementary Science,0.6182249096257021,0.5955196324527374,1.0,0.8135001140233498,0.7796838375158384,0.7343407818559813
+43,Natural Complementary Science,0.6161056507593643,0.5932657551810496,1.0,0.8133587173228787,0.7851907072544214,0.7336710123469457
+44,Natural Complementary Science,0.6140681548354173,0.5910929627016478,1.0,0.8132063065468087,0.7906963577067959,0.7330442688787381
+45,Natural Complementary Science,0.612110034283045,0.5889997707647959,1.0,0.8130434795272211,0.7962007055430137,0.7324595454594971
+46,Natural Complementary Science,0.6102289501251528,0.5869846924051377,1.0,0.8128708182234645,0.8017036720888014,0.7319158480812301
+47,Natural Complementary Science,0.6084226116885977,0.5850462393864981,1.0,0.812688888905194,0.807205183200043,0.7314121950089872
+48,Natural Complementary Science,0.6066887762891872,0.5831829235883326,1.0,0.8124982423413234,0.8127051691387736,0.7309476170489152
+49,Natural Complementary Science,0.605025248892397,0.5813932583346996,1.0,0.8122994139944855,0.8182035644507295,0.7305211577956396
+50,Natural Complementary Science,0.603429881750771,0.5796757596666654,1.0,0.8120929242206016,0.8237003078444943,0.7301318738594373
+51,Natural Complementary Science,0.601900574018973,0.5780289475590774,1.0,0.811879278473175,0.8291953420722797,0.7297788350736655
+52,Natural Complementary Science,0.6004352713474684,0.5764513470826682,1.0,0.8116589675119305,0.8346886138123751,0.7294611246829347
+53,Natural Complementary Science,0.5990319654558163,0.5749414895124776,1.0,0.8114324676154353,0.8401800735532986,0.7291778395125094
+54,Natural Complementary Science,0.5976886936865546,0.5734979133836027,1.0,0.8112002407973441,0.8456696754796774,0.7289280901194365
+55,Natural Complementary Science,0.5964035385406622,0.5721191654953061,1.0,0.8109627350259234,0.8511573773598847,0.7287110009259021
+56,Natural Complementary Science,0.5951746271955748,0.5708038018645314,1.0,0.8107203844465198,0.8566431404354569,0.728525710335329
+57,Natural Complementary Science,0.5940001310067335,0.5695503886298917,1.0,0.8104736096066465,0.86212692931231,0.728371370831721
+58,Natural Complementary Science,0.5928782649936315,0.5683575029072117,1.0,0.8102228176833739,0.8676087118537771,0.7282471490627762
+59,Natural Complementary Science,0.5918072873113223,0.5672237335977163,1.0,0.8099684027127201,0.8730884590754788,0.7281522259072817
+60,Natural Complementary Science,0.5907854987083401,0.5661476821499736,1.0,0.8097107458207449,0.8785661450420448,0.7280857965273116
+61,Natural Complementary Science,0.5898112419719715,0.5651279632767022,1.0,0.8094502154560647,0.8840417467656934,0.728047070405746
+62,Natural Complementary Science,0.5888829013618079,0.5641632056275693,1.0,0.8091871676235132,0.8895152441066814,0.7280352713696298
+63,Natural Complementary Science,0.5879989020324894,0.5632520524191045,1.0,0.8089219461186827,0.8949866196756309,0.7280496375998885
+64,Natural Complementary Science,0.587157709446542,0.562393162022864,1.0,0.8086548827630923,0.9004558587377356,0.728089421627916
+65,Natural Complementary Science,0.5863578287781881,0.5615852085129799,1.0,0.8083862976397361,0.9059229491188534,0.7281538903195471
+66,Natural Complementary Science,0.5855978043089951,0.5608268821742299,1.0,0.8081164993287785,0.9113878811134837,0.7282423248469211
+67,Natural Complementary Science,0.5848762188162101,0.560116889971766,1.0,0.807845785143168,0.916850647394629,0.7283540206487426
+68,Natural Complementary Science,0.5841916929546077,0.5594539559836343,1.0,0.8075744413639543,0.9223112429255406,0.7284882873794382
+69,Natural Complementary Science,0.5835428846326585,0.5588368217972196,1.0,0.8073027434751007,0.9277696648733413,0.7286444488477016
+70,Natural Complementary Science,0.5829284883838056,0.5582642468707392,1.0,0.8070309563975933,0.933225912524522,0.7288218429449177
+71,Natural Complementary Science,0.5823472347336164,0.5577350088609094,1.0,0.8067593347226585,0.9386799872023033,0.7290198215639413
+72,Natural Complementary Science,0.5817978895635518,0.5572479039178971,1.0,0.8064881229439063,0.9441318921858546,0.7292377505087112
+73,Natural Complementary Science,0.5812792534720782,0.5568017469486638,1.0,0.8062175556882291,0.9495816326313604,0.7294750093951599
+74,Natural Complementary Science,0.5807901611338198,0.5563953718497961,1.0,0.8059478579452916,0.9550292154949228,0.7297309915438809
+75,Natural Complementary Science,0.5803294806574294,0.5560276317109138,1.0,0.805679245295457,0.9604746494572866,0.7300051038650046
+76,Natural Complementary Science,0.5798961129428327,0.5556973989897244,1.0,0.8054119241360014,0.9659179448503745,0.7302967667357185
+77,Natural Complementary Science,0.5794889910384752,0.5554035656597913,1.0,0.8051460919054791,0.9713591135856184,0.7306054138708741
+78,Natural Complementary Science,0.5791070794991804,0.5551450433320636,1.0,0.8048819373061059,0.9767981690840672,0.7309304921870927
+79,Natural Complementary Science,0.5787493737452031,0.5549207633512016,1.0,0.8046196405240371,0.9822351262082596,0.7312714616607928
+80,Natural Complementary Science,0.5784148994230393,0.55472967686772,1.0,0.8043593734474248,0.987670001195839,0.7316277951805394
+81,Natural Complementary Science,0.5781027117685287,0.5545707548869532,1.0,0.8041012998821444,0.9931028115948962,0.7319989783941081
+82,Natural Complementary Science,0.5778118949727651,0.5544429882958315,1.0,0.8038455757650893,0.9985335762010169,0.7323845095506525
+83,Natural Complementary Science,0.5775415615513041,0.5543453878684396,1.0,0.8035923493749386,1.0,0.7323876678387419
+84,Natural Complementary Science,0.5772848159661493,0.5542558502010968,1.0,0.8033416379061158,1.0,0.7322506530260363
+85,Natural Complementary Science,0.5770388536955711,0.554166410543024,1.0,0.803093411752919,1.0,0.7321172705073652
+86,Natural Complementary Science,0.576803221840357,0.5540772197046595,1.0,0.8028476425471562,1.0,0.7319874178603454
+87,Natural Complementary Science,0.5765774865230621,0.5539884156089983,1.0,0.802604303067903,1.0,0.7318609953193536
+88,Natural Complementary Science,0.5763612320890934,0.553900124110074,1.0,0.8023633671571321,1.0,0.7317379057278164
+89,Natural Complementary Science,0.5761540603413514,0.5538124597653382,1.0,0.8021248096408737,1.0,0.731618054489871
+90,Natural Complementary Science,0.5759555898070147,0.5537255265643697,1.0,0.8018886062555848,1.0,0.7315013495215346
+91,Natural Complementary Science,0.57576545503512,0.5536394186162237,1.0,0.8016547335794227,1.0,0.7313877012015053
+92,Natural Complementary Science,0.5755833059236449,0.5535542207976121,1.0,0.8014231689681357,1.0,0.7312770223217169
+93,Natural Complementary Science,0.5754088070748519,0.5534700093639957,1.0,0.8011938904952974,1.0,0.7311692280377492
+94,Natural Complementary Science,0.575241637177708,0.5533868525255643,1.0,0.8009668768966285,1.0,0.7310642358191978
+95,Natural Complementary Science,0.5750814884162443,0.5533048109899765,1.0,0.8007421075181603,1.0,0.7309619654000915
+96,Natural Complementary Science,0.574928065902762,0.5532239384736419,1.0,0.8005195622680131,1.0,0.7308623387294411
+97,Natural Complementary Science,0.574781087134846,0.5531442821832295,1.0,0.800299221571569,1.0,0.7307652799219966
+98,Natural Complementary Science,0.5746402814751824,0.5530658832690067,1.0,0.8000810663298338,1.0,0.7306707152092814
+99,Natural Complementary Science,0.5745053896532247,0.5529887772515261,1.0,0.7998650778807972,1.0,0.7305785728909684
+100,Natural Complementary Science,0.5743761632877893,0.5529129944231033,1.0,0.7996512379636028,1.0,0.7304887832866529
+101,Natural Complementary Science,0.5742523644297022,0.5528385602254515,1.0,0.7994395286853585,1.0,0.7304012786880772
+102,Natural Complementary Science,0.5741337651236547,0.5527654956047698,1.0,0.7992299324904221,1.0,0.7303159933118522
+103,Natural Complementary Science,0.5740201469884612,0.5526938173455149,1.0,0.7990224321320083,1.0,0.7302328632527183
+104,Natural Complementary Science,0.5739113008149458,0.5526235383840239,1.0,0.7988170106459708,1.0,0.7301518264373853
+105,Natural Complementary Science,0.5738070261807181,0.5525546681030904,1.0,0.7986136513266222,1.0,0.7300728225789813
+106,Natural Complementary Science,0.5737071310811279,0.5524872126085467,1.0,0.7984123377044627,1.0,0.7299957931321445
+107,Natural Complementary Science,0.5736114315757206,0.552421174988841,1.0,0.7982130535256939,1.0,0.7299206812487805
+108,Natural Complementary Science,0.5735197514495403,0.5523565555585561,1.0,0.7980157827334031,1.0,0.7298474317345116
+109,Natural Complementary Science,0.5734319218886595,0.5522933520867592,1.0,0.7978205094503099,1.0,0.729775991005834
+110,Natural Complementary Science,0.5733477811693358,0.5522315600110295,1.0,0.7976272179629708,1.0,0.7297063070480038
+111,Natural Complementary Science,0.5732671743602237,0.5521711726379663,1.0,0.7974358927073472,1.0,0.7296383293736607
+112,Natural Complementary Science,0.5731899530370943,0.5521121813309369,1.0,0.797246518255645,1.0,0.7295720089822092
+113,Natural Complementary Science,0.5731159750095364,0.5520545756857813,1.0,0.7970590793043391,1.0,0.7295072983199572
+114,Natural Complementary Science,0.5730451040591358,0.5519983436951597,1.0,0.7968735606633037,1.0,0.7294441512410262
+115,Natural Complementary Science,0.5729772096886521,0.5519434719021841,1.0,0.7966899472459719,1.0,0.7293825229690375
+116,Natural Complementary Science,0.5729121668817286,0.5518899455439477,1.0,0.7965082240604523,1.0,0.7293223700595733
+117,Natural Complementary Science,0.572849855872696,0.551837748685529,1.0,0.7963283762015372,1.0,0.7292636503634217
+118,Natural Complementary Science,0.5727901619260427,0.5517868643450219,1.0,0.7961503888435372,1.0,0.729206322990599
+119,Natural Complementary Science,0.5727329751251489,0.5517372746101046,1.0,0.7959742472338839,1.0,0.7291503482751533
+120,Natural Complementary Science,0.5726781901698926,0.5516889607466455,1.0,0.7957999366874451,1.0,0.7290956877407458
+121,Natural Complementary Science,0.5726257061827571,0.5516419032998039,1.0,0.7956274425814996,1.0,0.7290423040670031
+122,Natural Complementary Science,0.5725754265230812,0.5515960821880683,1.0,0.7954567503513218,1.0,0.7289901610566397
+123,Natural Complementary Science,0.5725272586091118,0.5515514767906498,1.0,0.7952878454863312,1.0,0.7289392236033457
+124,Natural Complementary Science,0.5724811137475291,0.5515080660286182,1.0,0.7951207135267626,1.0,0.7288894576604277
+125,Natural Complementary Science,0.5724369069701328,0.5514658284401597,1.0,0.7949553400608164,1.0,0.7288408302102022
+126,Natural Complementary Science,0.5723945568773873,0.5514247422503018,1.0,0.7947917107222509,1.0,0.7287933092341291
+127,Natural Complementary Science,0.572353985488537,0.5513847854354421,1.0,0.7946298111883813,1.0,0.7287468636836788
+128,Natural Complementary Science,0.5723151180980184,0.5513459357829933,1.0,0.7944696271784512,1.0,0.7287014634519215
+129,Natural Complementary Science,0.5722778831379016,0.5513081709464411,1.0,0.7943111444523464,1.0,0.7286570793458328
+130,Natural Complementary Science,0.5722422120461097,0.5512714684960984,1.0,0.7941543488096204,1.0,0.7286136830593005
+131,Natural Complementary Science,0.572208039140173,0.551235805965816,1.0,0.793999226088805,1.0,0.7285712471468266
+132,Natural Complementary Science,0.5721753014962858,0.5512011608959064,1.0,0.7938457621669804,1.0,0.7285297449979095
+133,Natural Complementary Science,0.5721439388334418,0.5511675108725111,1.0,0.7936939429595808,1.0,0.7284891508120973
+134,Natural Complementary Science,0.5721138934024372,0.5511348335636406,1.0,0.7935437544204131,1.0,0.7284494395747032
+135,Natural Complementary Science,0.5720851098795349,0.5511031067520915,1.0,0.7933951825418679,1.0,0.7284105870331635
+136,Natural Complementary Science,0.5720575352645944,0.551072308365447,1.0,0.7932482133553033,1.0,0.7283725696740355
+137,Natural Complementary Science,0.5720311187834813,0.5510424165033407,1.0,0.7931028329315842,1.0,0.7283353647006171
+138,Natural Complementary Science,0.5720058117945751,0.5510134094621681,1.0,0.7929590273817589,1.0,0.7282989500111784
+139,Natural Complementary Science,0.5719815676992029,0.5509852657574066,1.0,0.7928167828578586,1.0,0.7282633041777913
+140,Natural Complementary Science,0.5719583418558364,0.5509579641437059,1.0,0.792676085553805,1.0,0.7282284064257482
+141,Natural Complementary Science,0.5719360914978913,0.5509314836328956,1.0,0.7925369217064118,1.0,0.728194236613553
+142,Natural Complementary Science,0.5719147756549798,0.5509058035100487,1.0,0.7923992775964686,1.0,0.7281607752134763
+143,Natural Complementary Science,0.5718943550774707,0.5508809033477358,1.0,0.7922631395498951,1.0,0.7281280032926595
+144,Natural Complementary Science,0.5718747921642169,0.5508567630185899,1.0,0.7921284939389551,1.0,0.7280959024947558
+145,Natural Complementary Science,0.5718560508933198,0.5508333627063033,1.0,0.7919953271835195,1.0,0.7280644550220997
+146,Natural Complementary Science,0.5718380967558003,0.5508106829151638,1.0,0.791863625752371,1.0,0.7280336436183866
+147,Natural Complementary Science,0.5718208966920567,0.5507887044782331,1.0,0.7917333761645402,1.0,0.7280034515518562
+148,Natural Complementary Science,0.5718044190309903,0.5507674085642689,1.0,0.7916045649906667,1.0,0.7279738625989642
+149,Natural Complementary Science,0.5717886334316887,0.5507467766834757,1.0,0.791477178854377,1.0,0.7279448610285321
+150,Natural Complementary Science,0.5717735108275578,0.550726790692178,1.0,0.7913512044336737,1.0,0.727916431586363
+151,Natural Complementary Science,0.5717590233728004,0.5507074327964909,1.0,0.791226628462329,1.0,0.7278885594803123
+152,Natural Complementary Science,0.5717451443911428,0.5506886855550666,1.0,0.7911034377312782,1.0,0.7278612303658012
+153,Natural Complementary Science,0.5717318483267148,0.5506705318809879,1.0,0.7909816190900066,1.0,0.7278344303317624
+154,Natural Complementary Science,0.5717191106969928,0.5506529550428769,1.0,0.7908611594479273,1.0,0.727808145887006
+155,Natural Complementary Science,0.5717069080477191,0.550635938665279,1.0,0.790742045775744,1.0,0.727782363946997
+156,Natural Complementary Science,0.5716952179097149,0.5506194667283835,1.0,0.7906242651067962,1.0,0.7277570718210297
+157,Natural Complementary Science,0.5716840187575069,0.5506035235671356,1.0,0.7905078045383823,1.0,0.7277322571997932
+158,Natural Complementary Science,0.5716732899696916,0.5505880938697911,1.0,0.79039265123306,1.0,0.7277079081433142
+159,Natural Complementary Science,0.5716630117909646,0.5505731626759633,1.0,0.7902787924199177,1.0,0.7276840130692678
+160,Natural Complementary Science,0.5716531652957441,0.5505587153742062,1.0,0.7901662153958178,1.0,0.7276605607416474
+161,Natural Complementary Science,0.5716437323533228,0.5505447376991772,1.0,0.7900549075266081,1.0,0.7276375402597823
+162,Natural Complementary Science,0.5716346955944832,0.5505312157284192,1.0,0.7899448562483,1.0,0.7276149410476946
+163,Natural Complementary Science,0.5716260383795149,0.5505181358787998,1.0,0.7898360490682114,1.0,0.7275927528437861
+164,Natural Complementary Science,0.5716177447675752,0.5505054849026403,1.0,0.7897284735660733,1.0,0.7275709656908437
+165,Natural Complementary Science,0.571609799487337,0.5504932498835686,1.0,0.7896221173950994,1.0,0.7275495699263581
+166,Natural Complementary Science,0.5716021879088689,0.5504814182321267,1.0,0.7895169682830161,1.0,0.7275285561731447
+167,Natural Complementary Science,0.5715948960166963,0.5504699776811581,1.0,0.7894130140330546,1.0,0.7275079153302567
+168,Natural Complementary Science,0.571587910383995,0.5504589162810052,1.0,0.7893102425249018,1.0,0.7274876385641851
+169,Natural Complementary Science,0.5715812181478672,0.5504482223945366,1.0,0.789208641715611,1.0,0.727467717300336
+170,Natural Complementary Science,0.5715748069856568,0.5504378846920326,1.0,0.7891081996404721,1.0,0.727448143214776
+171,Natural Complementary Science,0.5715686650922591,0.5504278921459436,1.0,0.7890089044138402,1.0,0.7274289082262396
+172,Natural Complementary Science,0.5715627811583842,0.5504182340255459,1.0,0.7889107442299236,1.0,0.7274100044883902
+173,Natural Complementary Science,0.571557144349732,0.5504088998915113,1.0,0.7888137073635298,1.0,0.7273914243823268
+174,Natural Complementary Science,0.5715517442870433,0.5503998795904059,1.0,0.7887177821707714,1.0,0.7273731605093301
+175,Natural Complementary Science,0.5715465710269875,0.5503911632491365,1.0,0.7886229570897295,1.0,0.7273552056838397
+176,Natural Complementary Science,0.571541615043854,0.5503827412693558,1.0,0.7885292206410786,1.0,0.727337552926657
+177,Natural Complementary Science,0.5715368672120121,0.5503746043218423,1.0,0.7884365614286684,1.0,0.7273201954583645
+178,Natural Complementary Science,0.5715323187891076,0.550366743340865,1.0,0.7883449681400684,1.0,0.7273031266929588
+179,Natural Complementary Science,0.5715279613999651,0.5503591495185458,1.0,0.788254429547071,1.0,0.7272863402316866
+180,Natural Complementary Science,0.5715237870211666,0.5503518142992287,1.0,0.7881649345061567,1.0,0.7272698298570807
+181,Natural Complementary Science,0.5715197879662776,0.5503447293738655,1.0,0.7880764719589199,1.0,0.7272535895271875
+182,Natural Complementary Science,0.5715159568716939,0.5503378866744264,1.0,0.7879890309324583,1.0,0.7272376133699834
+183,Natural Complementary Science,0.5715122866830827,0.5503312783683443,1.0,0.7879026005397236,1.0,0.7272218956779695
+184,Natural Complementary Science,0.5715087706423932,0.5503248968529992,1.0,0.787817169979837,1.0,0.7272064309029433
+185,Natural Complementary Science,0.5715054022754127,0.5503187347502485,1.0,0.7877327285383678,1.0,0.7271912136509411
+186,Natural Complementary Science,0.5715021753798454,0.5503127849010105,1.0,0.7876492655875783,1.0,0.727176238677343
+187,Natural Complementary Science,0.5714990840138918,0.5503070403599062,1.0,0.7875667705866328,1.0,0.727161500882139
+188,Natural Complementary Science,0.5714961224853083,0.5503014943899618,1.0,0.7874852330817745,1.0,0.727146995305349
+189,Natural Complementary Science,0.5714932853409254,0.5502961404573803,1.0,0.7874046427064689,1.0,0.7271327171225931
+190,Natural Complementary Science,0.5714905673566065,0.5502909722263822,1.0,0.7873249891815156,1.0,0.7271186616408049
+191,Natural Complementary Science,0.5714879635276291,0.5502859835541207,1.0,0.787246262315129,1.0,0.7271048242940883
+192,Natural Complementary Science,0.5714854690594686,0.5502811684856734,1.0,0.7871684520029886,1.0,0.7270912006397072
+193,Natural Complementary Science,0.5714830793589709,0.5502765212491141,1.0,0.7870915482282601,1.0,0.7270777863542088
+194,Natural Complementary Science,0.5714807900258941,0.550272036250665,1.0,0.7870155410615874,1.0,0.7270645772296725
+195,Natural Complementary Science,0.5714785968448066,0.5502677080699341,1.0,0.7869404206610575,1.0,0.7270515691700842
+196,Natural Complementary Science,0.5714764957773247,0.5502635314552358,1.0,0.7868661772721379,1.0,0.7270387581878269
+197,Natural Complementary Science,0.5714744829546771,0.5502595013189995,1.0,0.7867928012275884,1.0,0.7270261404002913
+198,Natural Complementary Science,0.5714725546705806,0.5502556127332645,1.0,0.786720282947347,1.0,0.7270137120265923
+199,Natural Complementary Science,0.5714707073744162,0.5502518609252638,1.0,0.7866486129383916,1.0,0.7270014693843996
+200,Natural Complementary Science,0.5714689376646906,0.5502482412730956,1.0,0.7865777817945785,1.0,0.7269894088868677
+201,Natural Complementary Science,0.5714672422827736,0.5502447493014853,1.0,0.7865077801964573,1.0,0.726977527039672
+202,Natural Complementary Science,0.5714656181068971,0.5502413806776358,1.0,0.786438598911064,1.0,0.7269658204381377
+203,Natural Complementary Science,0.5714640621464074,0.550238131207168,1.0,0.7863702287916932,1.0,0.7269542857644681
+204,Natural Complementary Science,0.5714625715362583,0.5502349968301488,1.0,0.7863026607776492,1.0,0.7269429197850621
+205,Natural Complementary Science,0.5714611435317355,0.5502319736172094,1.0,0.7862358858939781,1.0,0.7269317193479197
+206,Natural Complementary Science,0.5714597755034025,0.5502290577657525,1.0,0.7861698952511801,1.0,0.7269206813801359
+207,Natural Complementary Science,0.5714584649322596,0.550226245596245,1.0,0.786104680044904,1.0,0.7269098028854747
+208,Natural Complementary Science,0.5714572094051047,0.5502235335486003,1.0,0.7860402315556245,1.0,0.7268990809420253
+209,Natural Complementary Science,0.5714560066100903,0.5502209181786459,1.0,0.7859765411483022,1.0,0.7268885126999339
+210,Natural Complementary Science,0.5714548543324666,0.5502183961546763,1.0,0.7859136002720274,1.0,0.7268780953792131
+211,Natural Complementary Science,0.571453750450503,0.5502159642540909,1.0,0.7858514004596495,1.0,0.726867826267621
+212,Natural Complementary Science,0.5714526929315819,0.5502136193601166,1.0,0.7857899333273904,1.0,0.7268577027186123
+213,Natural Complementary Science,0.5714516798284554,0.5502113584586104,1.0,0.7857291905744447,1.0,0.7268477221493559
+214,Natural Complementary Science,0.5714507092756602,0.5502091786349461,1.0,0.7856691639825657,1.0,0.7268378820388194
+215,Natural Complementary Science,0.5714497794860824,0.550207077070979,1.0,0.7856098454156402,1.0,0.7268281799259155
+216,Natural Complementary Science,0.571448888747667,0.5502050510420917,1.0,0.7855512268192487,1.0,0.7268186134077104
+217,Natural Complementary Science,0.5714480354202649,0.5502030979143151,1.0,0.7854933002202165,1.0,0.7268091801376907
+218,Natural Complementary Science,0.5714472179326138,0.5502012151415288,1.0,0.7854360577261518,1.0,0.7267998778240891
+219,Natural Complementary Science,0.571446434779444,0.5501994002627337,1.0,0.785379491524975,1.0,0.7267907042282629
+220,Natural Complementary Science,0.5714456845187074,0.5501976508994006,1.0,0.7853235938844368,1.0,0.7267816571631279
+221,Natural Complementary Science,0.5714449657689217,0.5501959647528898,1.0,0.785268357151628,1.0,0.7267727344916431
+222,Natural Complementary Science,0.5714442772066269,0.550194339601942,1.0,0.7852137737524798,1.0,0.7267639341253456
+223,Natural Complementary Science,0.5714436175639486,0.5501927733002392,1.0,0.7851598361912565,1.0,0.726755254022933
+224,Natural Complementary Science,0.5714429856262627,0.5501912637740332,1.0,0.7851065370500395,1.0,0.7267466921888931
+225,Natural Complementary Science,0.5714423802299596,0.5501898090198409,1.0,0.7850538689882051,1.0,0.7267382466721789
+226,Natural Complementary Science,0.5714418002603013,0.5501884071022063,1.0,0.7850018247418945,1.0,0.7267299155649262
+227,Natural Complementary Science,0.5714412446493686,0.5501870561515234,1.0,0.7849503971234782,1.0,0.7267216970012133
+228,Natural Complementary Science,0.5714407123740951,0.5501857543619253,1.0,0.7848995790210138,1.0,0.7267135891558618
+229,Natural Complementary Science,0.5714402024543831,0.5501844999892316,1.0,0.7848493633976987,1.0,0.7267055902432776
+230,Natural Complementary Science,0.571439713951299,0.5501832913489566,1.0,0.7847997432913177,1.0,0.7266976985163266
+231,Natural Complementary Science,0.5714392459653445,0.5501821268143758,1.0,0.784750711813686,1.0,0.7266899122652501
+232,Natural Complementary Science,0.5714387976348,0.5501810048146498,1.0,0.7847022621500875,1.0,0.7266822298166157
+233,Natural Complementary Science,0.5714383681341384,0.5501799238330023,1.0,0.7846543875587095,1.0,0.7266746495322985
+234,Natural Complementary Science,0.5714379566725045,0.5501788824049538,1.0,0.784607081370074,1.0,0.7266671698085008
+235,Natural Complementary Science,0.5714375624922593,0.5501778791166081,1.0,0.7845603369864652,1.0,0.7266597890747997
+236,Natural Complementary Science,0.5714371848675844,0.5501769126029894,1.0,0.7845141478813551,1.0,0.7266525057932259
+237,Natural Complementary Science,0.5714368231031459,0.5501759815464302,1.0,0.7844685075988254,1.0,0.7266453184573752
+238,Natural Complementary Science,0.5714364765328138,0.5501750846750084,1.0,0.7844234097529883,1.0,0.7266382255915446
+239,Natural Complementary Science,0.5714361445184356,0.5501742207610321,1.0,0.7843788480274045,1.0,0.7266312257498992
+240,Natural Complementary Science,0.5714358264486613,0.5501733886195703,1.0,0.7843348161745001,1.0,0.726624317515666
+241,Natural Complementary Science,0.5714355217378175,0.5501725871070298,1.0,0.7842913080149821,1.0,0.72661749950035
+242,Natural Complementary Science,0.5714352298248292,0.550171815119775,1.0,0.784248317437253,1.0,0.7266107703429805
+243,Natural Complementary Science,0.5714349501721864,0.5501710715927912,1.0,0.7842058383968237,1.0,0.7266041287093772
+244,Natural Complementary Science,0.5714346822649545,0.5501703554983906,1.0,0.7841638649157273,1.0,0.7265975732914431
+245,Natural Complementary Science,0.5714344256098264,0.550169665844956,1.0,0.7841223910819316,1.0,0.7265911028064767
+246,Natural Complementary Science,0.5714341797342136,0.5501690016757275,1.0,0.7840814110487514,1.0,0.7265847159965086
+247,Natural Complementary Science,0.5714339441853766,0.5501683620676248,1.0,0.784040919034262,1.0,0.7265784116276585
+248,Natural Complementary Science,0.5714337185295908,0.550167746130108,1.0,0.784000909320712,1.0,0.726572188489511
+249,Natural Complementary Science,0.5714335023513479,0.5501671530040746,1.0,0.7839613762539374,1.0,0.7265660453945136
+250,Natural Complementary Science,0.5714332952525913,0.550166581860791,1.0,0.7839223142427758,1.0,0.7265599811773914
+251,Natural Complementary Science,0.5714330968519825,0.5501660319008592,1.0,0.7838837177584825,1.0,0.7265539946945819
+252,Natural Complementary Science,0.5714329067841992,0.5501655023532159,1.0,0.7838455813341471,1.0,0.7265480848236857
+253,Natural Complementary Science,0.5714327246992629,0.5501649924741638,1.0,0.7838078995641112,1.0,0.7265422504629365
+254,Natural Complementary Science,0.5714325502618938,0.5501645015464351,1.0,0.7837706671033885,1.0,0.7265364905306851
+255,Natural Complementary Science,0.5714323831508942,0.5501640288782843,1.0,0.7837338786670858,1.0,0.7265308039649022
+256,Natural Complementary Science,0.5714322230585566,0.5501635738026114,1.0,0.783697529029826,1.0,0.7265251897226936
+257,Natural Complementary Science,0.5714320696900972,0.5501631356761123,1.0,0.7836616130251733,1.0,0.7265196467798333
+258,Natural Complementary Science,0.571431922763113,0.5501627138784595,1.0,0.7836261255450602,1.0,0.7265141741303079
+259,Natural Complementary Science,0.5714317820070622,0.5501623078115065,1.0,0.7835910615392168,1.0,0.7265087707858778
+260,Natural Complementary Science,0.5714316471627656,0.5501619168985212,1.0,0.7835564160146025,1.0,0.7265034357756505
+261,Natural Complementary Science,0.5714315179819295,0.5501615405834428,1.0,0.7835221840348404,1.0,0.7264981681456655
+262,Natural Complementary Science,0.5714313942266884,0.5501611783301634,1.0,0.7834883607196538,1.0,0.7264929669584955
+263,Natural Complementary Science,0.5714312756691675,0.550160829621835,1.0,0.7834549412443056,1.0,0.7264878312928548
+264,Natural Complementary Science,0.5714311620910625,0.5501604939601974,1.0,0.7834219208390412,1.0,0.7264827602432242
+265,Natural Complementary Science,0.5714310532832378,0.5501601708649295,1.0,0.7833892947885325,1.0,0.7264777529194836
+266,Natural Complementary Science,0.5714309490453419,0.5501598598730231,1.0,0.7833570584313273,1.0,0.7264728084465574
+267,Natural Complementary Science,0.5714308491854375,0.5501595605381757,1.0,0.7833252071592998,1.0,0.7264679259640702
+268,Natural Complementary Science,0.5714307535196491,0.5501592724302056,1.0,0.7832937364171049,1.0,0.7264631046260118
+269,Natural Complementary Science,0.5714306618718238,0.5501589951344852,1.0,0.7832626417016364,1.0,0.7264583436004138
+270,Natural Complementary Science,0.5714305740732072,0.5501587282513944,1.0,0.7832319185614874,1.0,0.7264536420690338
+271,Natural Complementary Science,0.5714304899621325,0.5501584713957925,1.0,0.7832015625964149,1.0,0.7264489992270501
+272,Natural Complementary Science,0.5714304093837229,0.5501582241965064,1.0,0.7831715694568075,1.0,0.7264444142827647
+273,Natural Complementary Science,0.5714303321896066,0.5501579862958383,1.0,0.7831419348431565,1.0,0.726439886457315
+274,Natural Complementary Science,0.5714302582376432,0.550157757349089,1.0,0.7831126545055309,1.0,0.7264354149843948
+275,Natural Complementary Science,0.5714301873916621,0.5501575370240974,1.0,0.7830837242430555,1.0,0.7264309991099814
+276,Natural Complementary Science,0.5714301195212123,0.5501573250007963,1.0,0.7830551399033935,1.0,0.7264266380920718
+277,Natural Complementary Science,0.5714300545013213,0.5501571209707825,1.0,0.7830268973822319,1.0,0.7264223312004267
+278,Natural Complementary Science,0.5714299922122659,0.5501569246369025,1.0,0.782998992622771,1.0,0.726418077716321
+279,Natural Complementary Science,0.5714299325393507,0.5501567357128516,1.0,0.7829714216152179,1.0,0.7264138769323008
+280,Natural Complementary Science,0.571429875372698,0.5501565539227886,1.0,0.7829441803962837,1.0,0.7264097281519489
+281,Natural Complementary Science,0.5714298206070446,0.5501563790009603,1.0,0.7829172650486839,1.0,0.7264056306896559
+282,Natural Complementary Science,0.5714297681415488,0.5501562106913429,1.0,0.7828906717006441,1.0,0.726401583870397
+283,Natural Complementary Science,0.5714297178796037,0.5501560487472932,1.0,0.782864396525408,1.0,0.7263975870295156
+284,Natural Complementary Science,0.5714296697286604,0.5501558929312125,1.0,0.7828384357407506,1.0,0.7263936395125138
+285,Natural Complementary Science,0.5714296236000567,0.550155743014223,1.0,0.7828127856084949,1.0,0.726389740674847
+286,Natural Complementary Science,0.5714295794088543,0.5501555987758542,1.0,0.7827874424340316,1.0,0.7263858898817245
+287,Natural Complementary Science,0.5714295370736824,0.5501554600037408,1.0,0.7827624025658452,1.0,0.7263820865079166
+288,Natural Complementary Science,0.5714294965165877,0.5501553264933314,1.0,0.7827376623950411,1.0,0.7263783299375653
+289,Natural Complementary Science,0.571429457662891,0.5501551980476069,1.0,0.7827132183548791,1.0,0.7263746195640007
+290,Natural Complementary Science,0.5714294204410496,0.5501550744768089,1.0,0.7826890669203098,1.0,0.7263709547895635
+291,Natural Complementary Science,0.5714293847825255,0.5501549555981777,1.0,0.7826652046075154,1.0,0.7263673350254294
+292,Natural Complementary Science,0.5714293506216593,0.5501548412356998,1.0,0.7826416279734542,1.0,0.7263637596914408
+293,Natural Complementary Science,0.5714293178955496,0.5501547312198629,1.0,0.782618333615409,1.0,0.7263602282159419
+294,Natural Complementary Science,0.5714292865439365,0.5501546253874217,1.0,0.7825953181705405,1.0,0.7263567400356173
+295,Natural Complementary Science,0.5714292565090912,0.55015452358117,1.0,0.7825725783154438,1.0,0.7263532945953364
+296,Natural Complementary Science,0.5714292277357094,0.5501544256497222,1.0,0.7825501107657094,1.0,0.7263498913479998
+297,Natural Complementary Science,0.5714292001708096,0.5501543314473012,1.0,0.7825279122754875,1.0,0.7263465297543912
+298,Natural Complementary Science,0.5714291737636356,0.5501542408335349,1.0,0.7825059796370577,1.0,0.7263432092830331
+299,Natural Complementary Science,0.5714291484655628,0.5501541536732597,1.0,0.7824843096804016,1.0,0.726339929410044
+300,Natural Complementary Science,0.5714291242300091,0.550154069836331,1.0,0.7824628992727793,1.0,0.7263366896190023
+0,Accelerated Extraction Collapse,0.82,0.78,0.86,0.8,0.55,0.788
+1,Accelerated Extraction Collapse,0.7625371249999999,0.731977706875,0.9021364149300002,0.79342259985221,0.5588919256565209,0.7670854297482336
+2,Accelerated Extraction Collapse,0.7046705694460331,0.6836088002085378,0.9396044491854879,0.78681201093834,0.5680763465383507,0.745053697017628
+3,Accelerated Extraction Collapse,0.6463816950140704,0.634884124606347,0.9723690801196172,0.7800584209220092,0.5774970243396841,0.721867821252001
+4,Accelerated Extraction Collapse,0.587655233699498,0.5857962402795824,1.0,0.7730426364051977,0.5870926638857621,0.6974112920291009
+5,Accelerated Extraction Collapse,0.528479645090068,0.5363396017196206,1.0,0.7650091847440085,0.5965678016569222,0.667036951834219
+6,Accelerated Extraction Collapse,0.46886191033138436,0.48651810227630493,1.0,0.7559186807604853,0.6059065818683295,0.6362665589693972
+7,Accelerated Extraction Collapse,0.4088100938159779,0.43633618062756413,1.0,0.745765425087652,0.6150930632446442,0.6051011933892966
+8,Accelerated Extraction Collapse,0.34833335841071267,0.38579882847573294,1.0,0.7345438946888695,0.6241112216649772,0.5730067147868471
+9,Accelerated Extraction Collapse,0.28744197974247226,0.33491159818354904,1.0,0.7222130487865144,0.6329325128139942,0.5166279235442266
+10,Accelerated Extraction Collapse,0.22614815406314154,0.2836810087381768,0.9988640575358279,0.7071504468262809,0.6409747095469857,0.44758120736114526
+11,Accelerated Extraction Collapse,0.16450149132803235,0.23213226984722354,0.9927589571872469,0.6884627804661092,0.6478784806810411,0.3764819946705892
+12,Accelerated Extraction Collapse,0.10257500790713668,0.18030233206181207,0.9816641069120476,0.6660281102818973,0.6535432417664704,0.30336430676466875
+13,Accelerated Extraction Collapse,0.04044853757550075,0.1282317301134555,0.9655644157901543,0.6397282021701249,0.6578733348404677,0.22827059824006074
+14,Accelerated Extraction Collapse,0.0,0.0762913263794284,0.9453380554509412,0.6098607601504688,0.6607927350219439,0.1652210422603406
+15,Accelerated Extraction Collapse,0.0,0.02512955359377588,0.9226454201773634,0.5775740520107719,0.662420469872246,0.1267669837350422
+16,Accelerated Extraction Collapse,0.0,0.0,0.8987407064858233,0.5437296898835908,0.6630401621365001,0.10261161099335328
+17,Accelerated Extraction Collapse,0.0,0.0,0.8748337619021318,0.5088885732656705,0.6628454470472387,0.09258458307500081
+18,Accelerated Extraction Collapse,0.0,0.0,0.8509275182927617,0.47359120152157985,0.6620315226656304,0.08242733615335238
+19,Accelerated Extraction Collapse,0.0,0.0,0.8270242048111655,0.43783855162438234,0.6606145398087859,0.07214207768676903
+20,Accelerated Extraction Collapse,0.0,0.0,0.8031259924678538,0.40163164635542636,0.6586110936911109,0.061731054815995806
+21,Accelerated Extraction Collapse,0.0,0.0,0.7792349925305657,0.36497155289838795,0.6560382186657641,0.051196553307447795
+22,Accelerated Extraction Collapse,0.0,0.0,0.7553532549433689,0.3278593814013453,0.6529133828903346,0.03342426908119858
+23,Accelerated Extraction Collapse,0.0,0.0,0.7314827667649637,0.28982184168025776,0.649090875172066,0.010335937662320854
+24,Accelerated Extraction Collapse,0.0,0.0,0.7076260396143442,0.2505204389044184,0.6444666442801936,0.0
+25,Accelerated Extraction Collapse,0.0,0.0,0.6837859596949355,0.20993098425927853,0.6390420601292108,0.0
+26,Accelerated Extraction Collapse,0.0,0.0,0.6599654082784703,0.16802888236415656,0.632819237173739,0.0
+27,Accelerated Extraction Collapse,0.0,0.0,0.6361672590246448,0.12478912320577377,0.6258010495308085,0.0
+28,Accelerated Extraction Collapse,0.0,0.0,0.6123943752463339,0.08018627385490529,0.6179911460586088,0.0
+29,Accelerated Extraction Collapse,0.0,0.0,0.5886496071205228,0.0341944699607378,0.609393965394499,0.0
+30,Accelerated Extraction Collapse,0.0,0.0,0.5649357888451026,0.0,0.6001382116085042,0.0
+31,Accelerated Extraction Collapse,0.0,0.0,0.5412552912833121,0.0,0.5906382116085043,0.0
+32,Accelerated Extraction Collapse,0.0,0.0,0.5176089937215215,0.0,0.5811382116085043,0.0
+33,Accelerated Extraction Collapse,0.0,0.0,0.49399689615973086,0.0,0.5716382116085044,0.0
+34,Accelerated Extraction Collapse,0.0,0.0,0.47041899859794023,0.0,0.5621382116085044,0.0
+35,Accelerated Extraction Collapse,0.0,0.0,0.4468753010361496,0.0,0.5526382116085045,0.0
+36,Accelerated Extraction Collapse,0.0,0.0,0.4233658034743589,0.0,0.5431382116085045,0.0
+37,Accelerated Extraction Collapse,0.0,0.0,0.3998905059125683,0.0,0.5336382116085046,0.0
+38,Accelerated Extraction Collapse,0.0,0.0,0.37644940835077767,0.0,0.5241382116085046,0.0
+39,Accelerated Extraction Collapse,0.0,0.0,0.353042510788987,0.0,0.5146382116085046,0.0
+40,Accelerated Extraction Collapse,0.0,0.0,0.3296698132271964,0.0,0.5051382116085047,0.0
+41,Accelerated Extraction Collapse,0.0,0.0,0.3063313156654058,0.0,0.49549299598869895,0.0
+42,Accelerated Extraction Collapse,0.0,0.0,0.28302754087984644,0.0,0.48568107681488043,0.0
+43,Accelerated Extraction Collapse,0.0,0.0,0.25975908900331285,0.0,0.4757027021068793,0.0
+44,Accelerated Extraction Collapse,0.0,0.0,0.2365265592757281,0.0,0.4655581241711887,0.0
+45,Accelerated Extraction Collapse,0.0,0.0,0.21333055002871185,0.0,0.45524759959458677,0.0
+46,Accelerated Extraction Collapse,0.0,0.0,0.19017165867017136,0.0,0.444771389237649,0.0
+47,Accelerated Extraction Collapse,0.0,0.0,0.16705048166891584,0.0,0.4341297582281502,0.0
+48,Accelerated Extraction Collapse,0.0,0.0,0.14396761453929452,0.0,0.42332297595435675,0.0
+49,Accelerated Extraction Collapse,0.0,0.0,0.12092365182585883,0.0,0.41235131605820885,0.0
+50,Accelerated Extraction Collapse,0.0,0.0,0.09791918708804928,0.0,0.40121505642839356,0.0
+51,Accelerated Extraction Collapse,0.0,0.0,0.07495481288490706,0.0,0.3899144791933082,0.0
+52,Accelerated Extraction Collapse,0.0,0.0,0.052031120759811145,0.0,0.37844987071391467,0.0
+53,Accelerated Extraction Collapse,0.0,0.0,0.02914870122524105,0.0,0.36682152157648473,0.0
+54,Accelerated Extraction Collapse,0.0,0.0,0.006308143747565706,0.0,0.35502972658523646,0.0
+55,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.3430747847548619,0.0
+56,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.3310747847548619,0.0
+57,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.3190747847548619,0.0
+58,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.3070747847548619,0.0
+59,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.2950747847548619,0.0
+60,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.28307478475486186,0.0
+61,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.27107478475486185,0.0
+62,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.25907478475486184,0.0
+63,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.24707478475486183,0.0
+64,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.23507478475486182,0.0
+65,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.2230747847548618,0.0
+66,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.2110747847548618,0.0
+67,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.1990747847548618,0.0
+68,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.18707478475486178,0.0
+69,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.17507478475486177,0.0
+70,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.16307478475486176,0.0
+71,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.15107478475486175,0.0
+72,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.13907478475486174,0.0
+73,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.12707478475486172,0.0
+74,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.11507478475486173,0.0
+75,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.10307478475486173,0.0
+76,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.09107478475486173,0.0
+77,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.07907478475486174,0.0
+78,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.06707478475486174,0.0
+79,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.05507478475486174,0.0
+80,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.043074784754861734,0.0
+81,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.03107478475486173,0.0
+82,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.019074784754861726,0.0
+83,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.007074784754861724,0.0
+84,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+85,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+86,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+87,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+88,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+89,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+90,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+91,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+92,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+93,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+94,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+95,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+96,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+97,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+98,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+99,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+100,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+101,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+102,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+103,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+104,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+105,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+106,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+107,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+108,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+109,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+110,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+111,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+112,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+113,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+114,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+115,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+116,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+117,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+118,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+119,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+120,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+121,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+122,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+123,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+124,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+125,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+126,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+127,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+128,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+129,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+130,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+131,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+132,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+133,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+134,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+135,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+136,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+137,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+138,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+139,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+140,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+141,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+142,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+143,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+144,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+145,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+146,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+147,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+148,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+149,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+150,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+151,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+152,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+153,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+154,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+155,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+156,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+157,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+158,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+159,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+160,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+161,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+162,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+163,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+164,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+165,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+166,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+167,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+168,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+169,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+170,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+171,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+172,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+173,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+174,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+175,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+176,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+177,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+178,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+179,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+180,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+181,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+182,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+183,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+184,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+185,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+186,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+187,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+188,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+189,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+190,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+191,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+192,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+193,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+194,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+195,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+196,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+197,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+198,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+199,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+200,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+201,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+202,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+203,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+204,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+205,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+206,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+207,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+208,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+209,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+210,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+211,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+212,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+213,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+214,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+215,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+216,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+217,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+218,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+219,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+220,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+221,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+222,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+223,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+224,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+225,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+226,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+227,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+228,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+229,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+230,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+231,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+232,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+233,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+234,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+235,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+236,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+237,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+238,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+239,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+240,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+241,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+242,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+243,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+244,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+245,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+246,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+247,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+248,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+249,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+250,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+251,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+252,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+253,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+254,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+255,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+256,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+257,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+258,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+259,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+260,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+261,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+262,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+263,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+264,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+265,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+266,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+267,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+268,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+269,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+270,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+271,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+272,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+273,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+274,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+275,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+276,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+277,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+278,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+279,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+280,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+281,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+282,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+283,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+284,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+285,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+286,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+287,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+288,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+289,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+290,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+291,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+292,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+293,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+294,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+295,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+296,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+297,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+298,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+299,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0
+300,Accelerated Extraction Collapse,0.0,0.0,0.0,0.0,0.0,0.0

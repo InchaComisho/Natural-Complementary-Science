@@ -138,6 +138,7 @@ New Civilizational Genesis Plan は、これらを文明インフラとして統
 - [RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md](./RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md) — DPC、AW、Genesis Plan との関係。
 - [MODEL_LIMITATIONS_AND_SCOPE.md](./MODEL_LIMITATIONS_AND_SCOPE.md) — 制限事項と適用範囲。
 - [ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md](./ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md) — 有機物循環・腐葉土化・乾燥地再生モデル。
+- [simulations/civilization_survival_model](./simulations/civilization_survival_model/README_ja.md) — 二元論、従来型環境管理、自然補完科学、崩壊加速型抽出の前提を比較する、概念的・非予測的な文明生存シミュレーション。
 
 ---
 

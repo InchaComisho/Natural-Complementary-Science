@@ -249,6 +249,7 @@ The record remains.
 | [RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md](./RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md) | How Natural Complementary Science connects to Direct Planetary Cooling, OBS, OTU, UMC, Humus Recycling, Desert Greening, Artificial Wisdom, Wa-Node, and the New Civilizational Genesis Plan |
 | [MODEL_LIMITATIONS_AND_SCOPE.md](./MODEL_LIMITATIONS_AND_SCOPE.md) | Limitations, validation status, and appropriate use boundaries for this framework |
 | [ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md](./ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md) | Conceptual model for transforming organic waste into soil restoration material and supporting dryland regeneration via HRS, DGS, and a stepwise food transition hypothesis |
+| [simulations/civilization_survival_model](./simulations/civilization_survival_model/README.md) | Conceptual, non-predictive simulation comparing civilizational survival under dualistic, conventional environmental, natural-complementary, and accelerated-extraction assumptions |
 
 ## Organic Waste, Humus, and Desert Regeneration Model
 
