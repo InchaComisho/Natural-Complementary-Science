@@ -31,6 +31,21 @@ The model expresses a philosophical difference in how technology is directed:
 - Collapse risk rises when ecosystem integrity, circulation health, resource stability, or social order fall below critical thresholds.
 - Civilization survives longer when natural law, harmony, circulation, structure, order, and Wa are treated as governing design principles.
 
+## Interpretation of Results
+
+In this conceptual model, only the Natural Complementary Science scenario maintained long-term civilizational survivability.
+
+By contrast, the Dualism / Human Supremacy scenario, the Conventional Environmental Management scenario, and the Accelerated Extraction Collapse scenario all showed progressive decline in ecosystem integrity, circulation health, resource stability, social order, and overall civilizational survival.
+
+In particular, scenarios that did not incorporate the restoration of natural circulation into civilizational design showed a rapid decline in survivability around the 50-year mark.
+
+This is not a prediction.
+However, in an era of compound risks such as climate change, El Niño, ocean circulation instability, wildfires, droughts, water scarcity, food insecurity, and ecosystem degradation, the model illustrates the danger of designing civilization around economic growth and technological expansion alone.
+
+In this simulation, the only model that maintained long-term survivability was the Natural Complementary Science model, which places Natural Law, Harmony, Circulation, Structure, Order, and Wa at the center of civilizational design.
+
+This result presents Natural Complementary Science not merely as an ideal or philosophy, but as a conceptual framework for redesigning the conditions of civilizational continuity.
+
 ## How to Run
 
 Install the minimal dependencies:
