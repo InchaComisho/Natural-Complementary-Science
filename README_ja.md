@@ -167,6 +167,8 @@ New Civilizational Genesis Plan は、これらを文明インフラとして統
 
 - [科学技術は思想によって方向づけられる](https://github.com/InchaComisho/Artificial-Wisdom-Portal/blob/main/docs/SCIENCE_TECHNOLOGY_AND_PHILOSOPHY_ja.md)<br>
   技術は性能だけでなく、生命保護、責任、循環、調和を中心に置く思想によって導かれるべきであることを示す関連原理。
+- [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
+  UHV、スマートシティ安全、速度統治、人間中心インフラ設計に関係する生命保護型モビリティ構想。
 - [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — 自然補完科学と新文明創成計画の統合索引。
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — 共生科学・自然補完実装科学の関連フレームワーク。
 - [REIMEI 自然模倣型エネルギー・アーキテクチャ](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README_ja.md) — Dual-Core 回転エネルギー回収、REIMEI-NOP、音波・振動・圧力水循環・熱排気・車両エネルギー回収、AIアンドロイド用エネルギーコア構想を整理する、未検証のオープン仮説・オープン発明のポータル。
@@ -179,6 +181,9 @@ New Civilizational Genesis Plan は、これらを文明インフラとして統
 - [Natural-Complementary-Science-Perspective-on-Global-Warming-](https://github.com/InchaComisho/Natural-Complementary-Science-Perspective-on-Global-Warming-) — 自然補完科学から見た温暖化モデル。
 - [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Direct Planetary Cooling の統合索引。
 - [Artificial-Wisdom-and-Wa-Node-Repository-Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index) — 人工叡智と和ノードの統合索引。
+
+- [Abacus Decimal Computing Paradigm](https://github.com/InchaComisho/Abacus-Decimal-Computing-Paradigm)
+  5ビットそろばん型10進セルを基盤として、電子コンピュータ、光コンピュータ、量子互換フォトニック計算を接続するコンピューティング・パラダイム。
 
 ## 著者
 
