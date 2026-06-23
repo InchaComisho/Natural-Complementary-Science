@@ -225,3 +225,11 @@ Concept Originator: **Master**
   消費型文明から惑星循環文明への移行を整理する上位文明ポータル。自然法則、人工叡智、自然補完科学、都市・文明OS、自然・微生物OS、惑星熱・循環OS、持続的未来文明マスタープラン、自然模倣型エネルギー・アーキテクチャなどを統合する文明モデル。
 
 * [English version: REIMEI Civilization: Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
+
+
+---
+
+## 関連制度提案：カーボンクレジットからクーリングクレジットへ
+
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
+  カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。

@@ -574,3 +574,11 @@ https://note.com/inchacomusho/n/n9187db7b2709
   An upper-level civilization transition portal that organizes the shift from consumption civilization to planetary circulation civilization, integrating Natural Law, Artificial Wisdom, Nature-Complementary Science, Urban-Civilization OS, Natural-Microbial OS, Planetary Heat-Circulation OS, sustainable civilization master plans, and nature-inspired energy architecture.
 
 * [Japanese version: 黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
+
+
+---
+
+## Related Institutional Proposal: Carbon Credit to Cooling Credit
+
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
+  A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.
