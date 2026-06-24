@@ -320,6 +320,9 @@ For the full architecture, role definitions, connection logic, and validation re
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  A multilingual search gateway connecting sustainability, SDGs, environmental mobility, ESG, climate adaptation, urban cooling, and Civilization OS to Cooling Credits.
+
 ## Related Repository Web Ring
 
 This repository is part of a network of related repositories spanning philosophical foundation, AI alignment, climate intervention, and civilization design.
