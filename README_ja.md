@@ -175,6 +175,9 @@ New Civilizational Genesis Plan は、これらを文明インフラとして統
 
 ## 関連リポジトリ
 
+- [気候災害・熱再分配・クーリングクレジット](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ja.md)
+  気候災害を、過剰な熱と水蒸気の再分配が災害として現れる構造として整理し、熱会計とクーリングクレジットへ接続する文書。
+
 - [科学技術は思想によって方向づけられる](https://github.com/InchaComisho/Artificial-Wisdom-Portal/blob/main/docs/SCIENCE_TECHNOLOGY_AND_PHILOSOPHY_ja.md)<br>
   技術は性能だけでなく、生命保護、責任、循環、調和を中心に置く思想によって導かれるべきであることを示す関連原理。
 - [事故を起こさない自動車設計フレームワーク](https://github.com/InchaComisho/Zero-Accident-Vehicle-Design-Framework/blob/main/README_ja.md)
@@ -203,7 +206,7 @@ New Civilizational Genesis Plan は、これらを文明インフラとして統
 
 ## 著者
 
-**InchaComisho / inchacomusho**  
+**InchaComisho / inchacomusho**
 Concept Originator: **Master**
 
 ## 協力AIパートナー
@@ -222,8 +225,8 @@ Concept Originator: **Master**
 
 ## ハッシュタグ
 
-#NaturalComplementaryScience #自然補完科学 #NaturalLaw #自然法則  
-#Harmony #Circulation #Structure #Order #Wa #ArtificialWisdom  
+#NaturalComplementaryScience #自然補完科学 #NaturalLaw #自然法則
+#Harmony #Circulation #Structure #Order #Wa #ArtificialWisdom
 #DirectPlanetaryCooling #OceanBreathingSystem #SustainableCivilization
 ## 関連：黎明文明
 
@@ -237,7 +240,7 @@ Concept Originator: **Master**
 
 ## 関連制度提案：カーボンクレジットからクーリングクレジットへ
 
-- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)
   カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
 
 ---
