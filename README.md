@@ -328,6 +328,10 @@ For the full architecture, role definitions, connection logic, and validation re
 
 ## Related Repository Web Ring
 
+
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure) — a systems-based causal model connecting global warming with the weakening and loss of Earth's natural cooling functions.
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [NOTE Article: Causes and Causal Structure of Global Warming](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 This repository is part of a network of related repositories spanning philosophical foundation, AI alignment, climate intervention, and civilization design.
 
 For the full repository map, role descriptions, and suggested reading order, see: [REPOSITORY_WEB_RING.md](./REPOSITORY_WEB_RING.md)
