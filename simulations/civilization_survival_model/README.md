@@ -68,3 +68,22 @@ The script saves:
 ## Scope and Limitations
 
 This module is conceptual and non-predictive. It should not be used for policy forecasting, ecological prediction, risk quantification, or claims of scientific validation. Its purpose is to make assumptions visible and to support discussion about how civilizational values may shape ecological restoration, resource stability, social order, and long-term continuity.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

@@ -224,6 +224,11 @@ Concept Originator: **Master**
 
 ## ライセンス
 
+
+CC BY 4.0
+
+本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
+著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。
 本構想は、地球生物圏の保全と持続的文明の構築を目的として公開されています。利用、翻訳、改良、再配布、科学的検討を歓迎します。
 
 ## ハッシュタグ

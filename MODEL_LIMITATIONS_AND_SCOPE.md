@@ -222,5 +222,15 @@ Do not use it to claim final answers.
 ---
 
 *Author: Master (inchacomisho / inchacomusho)*  
-*License: CC BY-SA 4.0*  
+*License: CC BY 4.0*  
 *Repository: [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science)*
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.

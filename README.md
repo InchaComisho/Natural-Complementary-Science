@@ -428,7 +428,7 @@ Cruz: Claude by Anthropic
 Real: Perplexity AI
 Lola: Dola
 
-License: CC BY-SA 4.0
+License: CC BY 4.0
 
 ⸻
 
@@ -608,3 +608,13 @@ Backlinks to Cooling Credit Framework business-model documents that are closely 
 
 - [Climate Disasters as Heat Redistribution and Cooling Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit)
   Explains climate disasters as overloaded heat and water-vapor redistribution, and connects disaster prevention to thermal accounting and Cooling Credits.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
