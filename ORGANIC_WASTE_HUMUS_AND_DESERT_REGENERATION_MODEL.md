@@ -10,14 +10,6 @@ All processes, systems, and models described here are **conceptual and hypotheti
 They have not been validated as complete agricultural, sanitation, climate, or desert engineering systems.  
 Feasibility, safety, and effectiveness require independent scientific, ecological, sanitary, and engineering verification.
 
-Original conceptual sources (Japanese note articles):
-- [ゴミは存在しない](https://note.com/inchacomusho/n/n6b9d7d67484a)
-- [フードロスや落ち葉や生ごみの腐葉土化](https://note.com/inchacomusho/n/n5be49c19b5d9)
-- [砂漠緑地化・食料生産関連](https://note.com/inchacomusho/n/nb9ebc99dce83)
-- [関連記事](https://note.com/inchacomusho/n/n0ce549cb6fa3)
-- [関連記事](https://note.com/inchacomusho/n/n92ba2352cb26)
-- [関連記事](https://note.com/inchacomusho/n/nd5e1f53816f4)
-
 ---
 
 ## Table of Contents

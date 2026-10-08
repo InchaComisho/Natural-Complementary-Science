@@ -317,7 +317,6 @@ For the full architecture, role definitions, connection logic, and validation re
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
   A policy and technical framework for evaluating direct planetary cooling, water-cycle restoration, urban cooling, soil moisture recovery, vegetation transpiration, and ocean circulation as measurable cooling contributions.
 
-- [NOTE: Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)
   Japanese article explaining the transition from carbon-credit-centered climate policy to a cooling-credit model that rewards actual heat reduction.
 
 ---
@@ -345,10 +344,7 @@ For the full repository map, role descriptions, and suggested reading order, see
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — Related framework for coexistence science and bio-synthesis as natural-cycle restoration.
 - [REIMEI Nature-Inspired Energy Architecture](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README.md) — Portal for nature-inspired distributed energy hypotheses, including Dual-Core rotational harvesting, REIMEI-NOP, sound/vibration energy, water-loop recovery, heat/exhaust recovery, vehicle energy recovery, and AI android energy-core concepts; an open hypothesis index, not a claim of proven technologies.
 - [REIMEI-NOP: Natural-Origin Plasma Generator](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README.md) — Related open hypothesis for nature-inspired engineering that explores whether lightning-like pre-discharge processes could be modeled in a small structure; not a proven power generator.
-- [NOTE article: 雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
-- [Original open concept: REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
 - [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md) — Related natural-cycle restoration context for abandoned sugi plantations, forest liability, humus, soil regeneration, biodiversity, and local circular value.
-- [Original NOTE article: 放置杉林を負債から循環資産へ](https://note.com/inchacomusho/n/nfa9e2b639c06)
 - [Wildlife Is Not Invading Human Settlements](https://github.com/InchaComisho/Wildlife-Is-Not-Invading-Human-Settlements/blob/main/README.md) — Related ecological displacement context for habitat degradation, human-wildlife conflict, and coexistence.
 - [-Everything-in-Nature-Is-a-Cycle](https://github.com/InchaComisho/-Everything-in-Nature-Is-a-Cycle) — Introductory explanation of natural circulation as the foundation of life.
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
@@ -503,22 +499,7 @@ https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civili
 Artificial Wisdom and Wa-Node – Repository Index
 https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
 
-唯一の温暖化対策：地球直接冷却
-https://note.com/inchacomusho/n/n32f7295434aa
-
-唯一の温暖化対策•地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法
-https://note.com/inchacomusho/n/n5ab9564c6617
-
-地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）
-https://note.com/inchacomusho/n/nfe290c6fca60
-
 ■深海のエアレーションの気圧・水圧の解決策
-
-海洋調律ユニット（OTU）物理実装プロトコル
-https://note.com/inchacomusho/n/n067025e36085
-
-Technical Specification: Ocean Tuning Unit (OTU)
-https://note.com/inchacomusho/n/naa35a8485b35
 
 Technical Specification: Ocean Tuning Unit (OTU)
 https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
@@ -528,57 +509,17 @@ https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
 
 ■思想によるパラダイムの革新
 
-自然補完科学
-https://note.com/inchacomusho/n/nf9eabe973e38
-
-自然補完科学 ― 学問体系の全体構造
-https://note.com/inchacomusho/n/ndaa0456a5632
-
 ■温暖化の因果関係
-
-温暖化の本当の原因は「CO₂」ではない
-https://note.com/inchacomusho/n/nc7826abc38a9
-
-微生物の重要性
-https://note.com/inchacomusho/n/n48ae33c2f84c
-
-微生物の死が引き起こす、静かで重大な文明崩壊
-https://note.com/inchacomusho/n/n6ae72a34919f
-
-世界が同時に“炭素固定源を失い始めている”ーー温暖化が加速する理由
-https://note.com/inchacomusho/n/ne866fdd22122
 
 ■炭素固定源・微生物の回復
 
-ゴミは存在しない
-https://note.com/inchacomusho/n/n6b9d7d67484a
-
-フードロスや落ち葉や生ごみの腐葉土化：持続可能な資源活用のビジョン
-https://note.com/inchacomusho/n/n5be49c19b5d9
-
 ■自然法則
-
-六つの理（自然法則・調和・循環・構造・秩序・和）
-https://note.com/inchacomusho/n/n8448430591c1
 
 ■持続的未来文明
 
-新文明創成計画―地球を再生する完全循環モデル
-https://note.com/inchacomusho/n/ne4d28b3a86c2
-
-六つの理（自然法則・調和・循環・構造・秩序・和）― 新文明創成計画
-https://note.com/inchacomusho/n/n26ce8a1f7632
-
-新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）
-https://note.com/inchacomusho/n/n499530f6a055
-
 ■人工叡智
 
-人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル
-https://note.com/inchacomusho/n/n0849dfd12364
-
 和ノード人工叡智（Artificial Wisdom Node）
-https://note.com/inchacomusho/n/n9187db7b2709
 ## Related: REIMEI Civilization
 
 * [REIMEI Civilization: Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
