@@ -1,14 +1,14 @@
-# Related Links: Cooling Credit Local Pilot Model
+# 関連リンク：クーリングクレジットの地域パイロットモデル
 
-[日本語版はこちら / Japanese version](RELATED_COOLING_CREDIT_LOCAL_PILOT_LINKS_ja.md)
+[English Version](RELATED_COOLING_CREDIT_LOCAL_PILOT_LINKS.md)
 
 ## 自然補完科学から地域冷却実証への接続
 
-The **Cooling Credit Local Pilot Model** connects Natural Complementary Science to practical local implementation. It provides a measurable pathway for restoring natural cooling functions through soil, water, vegetation, rainwater use, humus, evapotranspiration, waste-heat mitigation, and regional MRV.
+**クーリングクレジットの地域パイロットモデル**は、自然補完科学を、実践的な地域での実装に結びつけます。土壌、水、植生、雨水の利用、腐植、蒸発散、排熱の緩和、地域のMRVを通じて、自然の冷却機能を回復させるための、測定可能な道筋を提供します。
 
 ---
 
-## Main Link / 主要リンク
+## 主要リンク
 
 - [Cooling-Credit-Local-Pilot-Model](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model)
 - [日本語 README](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model/blob/main/README_ja.md)
@@ -17,7 +17,7 @@ The **Cooling Credit Local Pilot Model** connects Natural Complementary Science 
 
 ---
 
-## Conceptual Flow
+## 概念的な流れ
 
 ```text
 Natural Complementary Science
@@ -35,7 +35,7 @@ Regional Cooling Value
 
 ---
 
-## Related Repositories
+## 関連リポジトリ
 
 - [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
 - [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
