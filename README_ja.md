@@ -1,6 +1,6 @@
 # 自然補完科学（Natural Complementary Science）
 
-> English version: [README.md](./README.md)
+> English version: [README.md](./README_ja.md)
 
 > 本リポジトリは、Master（InchaComisho / inchacomusho）により定義・公開された「自然補完科学（Natural Complementary Science）」の日本語版概要です。ここで扱う「補完」は、医療・代替療法における “complementary” とは無関係であり、人類と自然が互いの不足を補い、持続可能な全体を形成するという文明・科学・環境思想上の概念です。本フレームワークは概念的・統合的提案であり、個別技術や実装には科学的・工学的・生態学的検証が必要です。
 
@@ -147,12 +147,12 @@ New Civilizational Genesis Plan は、これらを文明インフラとして統
 
 ## リポジトリ構成
 
-- [CORE_DEFINITION.md](./CORE_DEFINITION.md) — 自然補完科学の中核定義。
-- [SIX_PRINCIPLES_FRAMEWORK.md](./SIX_PRINCIPLES_FRAMEWORK.md) — 六つの基礎原理。
-- [NATURAL_COMPLEMENTARY_SCIENCE_VS_CONVENTIONAL_ENVIRONMENTALISM.md](./NATURAL_COMPLEMENTARY_SCIENCE_VS_CONVENTIONAL_ENVIRONMENTALISM.md) — 従来型環境主義との比較。
-- [RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md](./RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md) — DPC、AW、Genesis Plan との関係。
-- [MODEL_LIMITATIONS_AND_SCOPE.md](./MODEL_LIMITATIONS_AND_SCOPE.md) — 制限事項と適用範囲。
-- [ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md](./ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md) — 有機物循環・腐葉土化・乾燥地再生モデル。
+- [CORE_DEFINITION.md](./CORE_DEFINITION_ja.md) — 自然補完科学の中核定義。
+- [SIX_PRINCIPLES_FRAMEWORK.md](./SIX_PRINCIPLES_FRAMEWORK_ja.md) — 六つの基礎原理。
+- [NATURAL_COMPLEMENTARY_SCIENCE_VS_CONVENTIONAL_ENVIRONMENTALISM.md](./NATURAL_COMPLEMENTARY_SCIENCE_VS_CONVENTIONAL_ENVIRONMENTALISM_ja.md) — 従来型環境主義との比較。
+- [RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN.md](./RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN_ja.md) — DPC、AW、Genesis Plan との関係。
+- [MODEL_LIMITATIONS_AND_SCOPE.md](./MODEL_LIMITATIONS_AND_SCOPE_ja.md) — 制限事項と適用範囲。
+- [ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL.md](./ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL_ja.md) — 有機物循環・腐葉土化・乾燥地再生モデル。
 - [simulations/civilization_survival_model](./simulations/civilization_survival_model/README_ja.md) — 二元論、従来型環境管理、自然補完科学、崩壊加速型抽出の前提を比較する、概念的・非予測的な文明生存シミュレーション。
 
 ---

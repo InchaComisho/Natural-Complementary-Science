@@ -1,5 +1,7 @@
 # Natural Complementary Science vs. Conventional Environmentalism
 
+[日本語版はこちら / Japanese version](NATURAL_COMPLEMENTARY_SCIENCE_VS_CONVENTIONAL_ENVIRONMENTALISM_ja.md)
+
 ## Overview
 
 Natural Complementary Science emerges from a structural critique of several dominant approaches to environmental and climate action.

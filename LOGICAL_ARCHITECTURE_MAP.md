@@ -1,5 +1,7 @@
 # Logical Architecture Map
 
+[日本語版はこちら / Japanese version](LOGICAL_ARCHITECTURE_MAP_ja.md)
+
 ## Overview
 
 This document describes the four-layer logical architecture of the integrated framework centered on Natural Complementary Science.

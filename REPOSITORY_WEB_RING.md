@@ -1,5 +1,7 @@
 # Repository Web Ring
 
+[日本語版はこちら / Japanese version](REPOSITORY_WEB_RING_ja.md)
+
 ## Overview
 
 This document maps the network of related repositories in the InchaComisho framework and provides a suggested reading order.

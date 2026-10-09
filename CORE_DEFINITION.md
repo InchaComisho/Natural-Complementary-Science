@@ -1,5 +1,7 @@
 # Core Definition: Natural Complementary Science
 
+[日本語版はこちら / Japanese version](CORE_DEFINITION_ja.md)
+
 ## What Is Natural Complementary Science?
 
 Natural Complementary Science (自然補完科学) is a scientific and philosophical framework that redefines the relationship between human civilization and the natural world on the basis of **complementarity** — a bidirectional, equal relationship in which each party supplies what the other lacks.

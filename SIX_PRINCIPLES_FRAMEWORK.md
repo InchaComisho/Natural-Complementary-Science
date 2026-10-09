@@ -1,5 +1,7 @@
 # The Six Principles Framework of Natural Complementary Science
 
+[日本語版はこちら / Japanese version](SIX_PRINCIPLES_FRAMEWORK_ja.md)
+
 ## Overview
 
 Natural Complementary Science is structured around six foundational principles derived from the observation of natural systems.

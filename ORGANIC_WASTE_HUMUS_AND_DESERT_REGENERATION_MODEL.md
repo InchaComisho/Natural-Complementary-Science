@@ -1,5 +1,7 @@
 # Organic Waste, Humus, and Desert Regeneration Model
 
+[日本語版はこちら / Japanese version](ORGANIC_WASTE_HUMUS_AND_DESERT_REGENERATION_MODEL_ja.md)
+
 ## Overview
 
 This document presents a **conceptual framework** for transforming organic waste streams into soil restoration material and, as a hypothesis, using such material to support dryland and desert regeneration.

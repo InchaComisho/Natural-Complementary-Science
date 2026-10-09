@@ -1,5 +1,7 @@
 # Model Limitations and Scope
 
+[日本語版はこちら / Japanese version](MODEL_LIMITATIONS_AND_SCOPE_ja.md)
+
 ## Overview
 
 This document defines the limitations, boundaries, and appropriate use of the Natural Complementary Science framework and its associated documents and systems.

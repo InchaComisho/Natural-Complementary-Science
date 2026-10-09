@@ -1,5 +1,7 @@
 # Relationship to Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan
 
+[日本語版はこちら / Japanese version](RELATIONSHIP_TO_DPC_AW_AND_GENESIS_PLAN_ja.md)
+
 ## Overview
 
 Natural Complementary Science does not exist in isolation.  
