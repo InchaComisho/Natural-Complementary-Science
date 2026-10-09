@@ -1,5 +1,7 @@
 # Civilization Survival Model
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 This directory contains a simple conceptual simulation comparing long-term civilizational survival under different philosophical assumptions.
 
 The model is **not a predictive scientific model**. It is a transparent toy model for discussion inside the Natural Complementary Science framework. The equations and parameters are illustrative assumptions, not validated forecasts.
